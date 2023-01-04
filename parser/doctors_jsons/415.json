@@ -1,0 +1,1067 @@
+{"doctors": [
+    {
+        "id": 598470,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Андреев Анатолий Ильич",
+        "surname": "",
+        "alias": "Andreev_Anatoliy",
+        "sex": 1,
+        "url": "/doctor/Andreev_Anatoliy",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 107,
+                "name": "Анестезиолог",
+                "alias": "anesteziolog"
+            },
+            {
+                "id": 250,
+                "name": "Анестезиолог-реаниматолог",
+                "alias": "anesteziolog-reanimatolog"
+            },
+            {
+                "id": 204,
+                "name": "Реаниматолог",
+                "alias": "reanimatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Петрова, д. 14-А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Анестезиолог, Реаниматолог, Анестезиолог-реаниматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98136": {
+                "active": true,
+                "selected": true,
+                "id": 98136,
+                "name": "Центр офтальмологии Ижвижн",
+                "alias": "tsentr_oftalmologii_izhvizhn",
+                "url": "/clinic/tsentr_oftalmologii_izhvizhn",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.872182,
+                    53.288063
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Петрова",
+                    "house": "д. 14-А",
+                    "fullAddress": "г. Ижевск, ул. Петрова, д. 14-А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 25,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 598590,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Чевплянская Оксана Николаевна",
+        "surname": "",
+        "alias": "Chevplyanskaya_Oksana",
+        "sex": 2,
+        "url": "/doctor/Chevplyanskaya_Oksana",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/598590_20220131142803.162x162.jpg?1669431403",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/598590_20220131142803.640x400.jpg?1669431403",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            },
+            {
+                "id": 100,
+                "name": "УЗИ-специалист",
+                "alias": "vrach_uzi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 134",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт, УЗИ-специалист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "155646": {
+                "active": true,
+                "selected": true,
+                "id": 155646,
+                "name": "Клиника Нуриевых Ижевск",
+                "alias": "klinika_nurievyh_izhevsk",
+                "url": "/clinic/klinika_nurievyh_izhevsk",
+                "phone": "8 (341) 233-02-44",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.848104,
+                    53.275369
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 134",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 134"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 12,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 598622,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Крохин Антон Алексеевич",
+        "surname": "",
+        "alias": "Krohin_Anton",
+        "sex": 1,
+        "url": "/doctor/Krohin_Anton",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 107,
+                "name": "Анестезиолог",
+                "alias": "anesteziolog"
+            },
+            {
+                "id": 250,
+                "name": "Анестезиолог-реаниматолог",
+                "alias": "anesteziolog-reanimatolog"
+            },
+            {
+                "id": 204,
+                "name": "Реаниматолог",
+                "alias": "reanimatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 134",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Анестезиолог, Реаниматолог, Анестезиолог-реаниматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "155646": {
+                "active": true,
+                "selected": true,
+                "id": 155646,
+                "name": "Клиника Нуриевых Ижевск",
+                "alias": "klinika_nurievyh_izhevsk",
+                "url": "/clinic/klinika_nurievyh_izhevsk",
+                "phone": "8 (341) 233-02-44",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.848104,
+                    53.275369
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 134",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 134"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 10,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 598694,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Третьякова Надежда Анатольевна",
+        "surname": "",
+        "alias": "Tretyakova_Nadezhda_5",
+        "sex": 2,
+        "url": "/doctor/Tretyakova_Nadezhda_5",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/598694_20201130010625.162x162.jpg?1669431405",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/598694_20201130010625.640x400.jpg?1669431405",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.4
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 84,
+                "name": "Окулист (офтальмолог)",
+                "alias": "okulist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Свободы, д. 184",
+                "price": 2000,
+                "specialPrice": 1800,
+                "sectorNames": "Окулист (офтальмолог)"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98140": {
+                "active": true,
+                "selected": true,
+                "id": 98140,
+                "name": "Глазная клиника Мона Лиза",
+                "alias": "glaznaya_klinika_mona_liza",
+                "url": "/clinic/glaznaya_klinika_mona_liza",
+                "phone": "8 (341) 233-10-06",
+                "price": 2000,
+                "specialPrice": 1800,
+                "coords": [
+                    56.845825,
+                    53.211948
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Свободы",
+                    "house": "д. 184",
+                    "fullAddress": "г. Ижевск, ул. Свободы, д. 184"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 2000,
+                        "specialPrice": 1800
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "from": "6",
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 15,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 598704,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Шитова Наталья Борисовна",
+        "surname": "",
+        "alias": "Shitova_Natalya_2",
+        "sex": 2,
+        "url": "/doctor/Shitova_Natalya_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/598704_20201130010959.162x162.jpg?1669431405",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/598704_20201130010959.640x400.jpg?1669431405",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 202,
+                "name": "Офтальмохирург",
+                "alias": "oftalmohirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Свободы, д. 184",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Офтальмохирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98140": {
+                "active": true,
+                "selected": true,
+                "id": 98140,
+                "name": "Глазная клиника Мона Лиза",
+                "alias": "glaznaya_klinika_mona_liza",
+                "url": "/clinic/glaznaya_klinika_mona_liza",
+                "phone": "8 (341) 233-10-06",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845825,
+                    53.211948
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Свободы",
+                    "house": "д. 184",
+                    "fullAddress": "г. Ижевск, ул. Свободы, д. 184"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": [],
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 27,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 598714,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Паймухин Александр Владимирович",
+        "surname": "",
+        "alias": "Paymuhin_Aleksandr",
+        "sex": 1,
+        "url": "/doctor/Paymuhin_Aleksandr",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/598714_20201130011646.162x162.jpg?1669431405",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/598714_20201130011646.640x400.jpg?1669431405",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.4
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 202,
+                "name": "Офтальмохирург",
+                "alias": "oftalmohirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Свободы, д. 184",
+                "price": 1500,
+                "specialPrice": 1350,
+                "sectorNames": "Офтальмохирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98140": {
+                "active": true,
+                "selected": true,
+                "id": 98140,
+                "name": "Глазная клиника Мона Лиза",
+                "alias": "glaznaya_klinika_mona_liza",
+                "url": "/clinic/glaznaya_klinika_mona_liza",
+                "phone": "8 (341) 233-10-06",
+                "price": 1500,
+                "specialPrice": 1350,
+                "coords": [
+                    56.845825,
+                    53.211948
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Свободы",
+                    "house": "д. 184",
+                    "fullAddress": "г. Ижевск, ул. Свободы, д. 184"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1500,
+                        "specialPrice": 1350
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 13,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 598724,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Прозоровский Владимир Анатольевич",
+        "surname": "",
+        "alias": "Prozorovskiy_Vladimir",
+        "sex": 1,
+        "url": "/doctor/Prozorovskiy_Vladimir",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/598724_20201130012328.162x162.jpg?1669431405",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/598724_20201130012328.640x400.jpg?1669431405",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.4
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 202,
+                "name": "Офтальмохирург",
+                "alias": "oftalmohirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Свободы, д. 184",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Офтальмохирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98140": {
+                "active": true,
+                "selected": true,
+                "id": 98140,
+                "name": "Глазная клиника Мона Лиза",
+                "alias": "glaznaya_klinika_mona_liza",
+                "url": "/clinic/glaznaya_klinika_mona_liza",
+                "phone": "8 (341) 233-10-06",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845825,
+                    53.211948
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Свободы",
+                    "house": "д. 184",
+                    "fullAddress": "г. Ижевск, ул. Свободы, д. 184"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": [],
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 14,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 598730,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Сердюк Наталия Павловна",
+        "surname": "",
+        "alias": "Serdyuk_Nataliya_2",
+        "sex": 2,
+        "url": "/doctor/Serdyuk_Nataliya_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/598730_20201130013320.162x162.jpg?1669431405",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/598730_20201130013320.640x400.jpg?1669431405",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 84,
+                "name": "Окулист (офтальмолог)",
+                "alias": "okulist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Свободы, д. 184",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Окулист (офтальмолог)"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98140": {
+                "active": true,
+                "selected": true,
+                "id": 98140,
+                "name": "Глазная клиника Мона Лиза",
+                "alias": "glaznaya_klinika_mona_liza",
+                "url": "/clinic/glaznaya_klinika_mona_liza",
+                "phone": "8 (341) 233-10-06",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845825,
+                    53.211948
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Свободы",
+                    "house": "д. 184",
+                    "fullAddress": "г. Ижевск, ул. Свободы, д. 184"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 0,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 598732,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Гиляева Айгуль Амировна",
+        "surname": "",
+        "alias": "Gilyaeva_Aygul",
+        "sex": 2,
+        "url": "/doctor/Gilyaeva_Aygul",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/598732_20220221121133.162x162.jpg?1669431405",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/598732_20220221121133.640x400.jpg?1669431405",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 3.1138238499017,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 84,
+                "name": "Окулист (офтальмолог)",
+                "alias": "okulist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Свободы, д. 184",
+                "price": 1200,
+                "specialPrice": 1080,
+                "sectorNames": "Окулист (офтальмолог)"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98140": {
+                "active": true,
+                "selected": true,
+                "id": 98140,
+                "name": "Глазная клиника Мона Лиза",
+                "alias": "glaznaya_klinika_mona_liza",
+                "url": "/clinic/glaznaya_klinika_mona_liza",
+                "phone": "8 (341) 233-10-06",
+                "price": 1200,
+                "specialPrice": 1080,
+                "coords": [
+                    56.845825,
+                    53.211948
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Свободы",
+                    "house": "д. 184",
+                    "fullAddress": "г. Ижевск, ул. Свободы, д. 184"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1080
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 3,
+        "categoryTitle": "Врач второй категории",
+        "experience": 7,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 598734,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Иванова Анастасия Александровна",
+        "surname": "",
+        "alias": "Ivanova_Anastasiya_27",
+        "sex": 2,
+        "url": "/doctor/Ivanova_Anastasiya_27",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/598734_20201130014000.162x162.jpg?1669431405",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/598734_20201130014000.640x400.jpg?1669431405",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 84,
+                "name": "Окулист (офтальмолог)",
+                "alias": "okulist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Свободы, д. 184",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Окулист (офтальмолог)"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98140": {
+                "active": true,
+                "selected": true,
+                "id": 98140,
+                "name": "Глазная клиника Мона Лиза",
+                "alias": "glaznaya_klinika_mona_liza",
+                "url": "/clinic/glaznaya_klinika_mona_liza",
+                "phone": "8 (341) 233-10-06",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845825,
+                    53.211948
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Свободы",
+                    "house": "д. 184",
+                    "fullAddress": "г. Ижевск, ул. Свободы, д. 184"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": [],
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 7,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

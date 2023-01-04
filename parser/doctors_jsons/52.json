@@ -1,0 +1,1317 @@
+{"doctors": [
+    {
+        "id": 42963,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Стрельник (Сабитова) Светлана Алексеевна",
+        "surname": "",
+        "alias": "Sabitova_Svetlana",
+        "sex": 2,
+        "url": "/doctor/Sabitova_Svetlana",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/42963_20220517113333.162x162.jpg?1669505573",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/42963_20220517113333.640x400.jpg?1669505573",
+        "tipMessage": "Всего записалось 88 человек",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.5
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "17 отзывов",
+        "countReviews": 17,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 252,
+                "name": "Абдоминальный хирург",
+                "alias": "abdominalnii-hirurg"
+            },
+            {
+                "id": 183,
+                "name": "Колопроктолог",
+                "alias": "koloproktolog"
+            },
+            {
+                "id": 98,
+                "name": "Проктолог",
+                "alias": "proktolog"
+            },
+            {
+                "id": 95,
+                "name": "Хирург",
+                "alias": "hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Репина, д. 35",
+                "price": 600,
+                "specialPrice": 540,
+                "sectorNames": "Хирург"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Репина, д. 35",
+                "price": 400,
+                "specialPrice": 360,
+                "sectorNames": "Проктолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Репина, д. 35",
+                "price": 200,
+                "specialPrice": 180,
+                "sectorNames": "Колопроктолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Репина, д. 35",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Абдоминальный хирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "10681": {
+                "active": true,
+                "selected": true,
+                "id": 10681,
+                "name": "Докториус",
+                "alias": "avitsenna_3",
+                "url": "/clinic/avitsenna_3",
+                "phone": "8 (341) 233-00-74",
+                "price": 200,
+                "specialPrice": 180,
+                "coords": [
+                    56.869348,
+                    53.234837
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Репина",
+                    "house": "д. 35",
+                    "fullAddress": "г. Ижевск, ул. Репина, д. 35"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 200,
+                        "specialPrice": 180
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 15,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": true,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "В стоимость первичного приема хирурга, проктолога гарантированно входит консультация, осмотр и назначение лечения.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 42965,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Анисимов Владимир Валерьевич",
+        "surname": "",
+        "alias": "Anisimov_Vladimir",
+        "sex": 1,
+        "url": "/doctor/Anisimov_Vladimir",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/42965.162x162.jpg?1669505573",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/42965.640x400.jpg?1669505573",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 26,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 42967,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Вахрушев Сергей Иванович",
+        "surname": "",
+        "alias": "Vahrushev_Sergey",
+        "sex": 1,
+        "url": "/doctor/Vahrushev_Sergey",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/42967_20190813191246.162x162.jpg?1669505573",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/42967_20190813191246.640x400.jpg?1669505573",
+        "tipMessage": "Всего записалось 13 человек",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "1 отзыва",
+        "countReviews": 1,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 100,
+                "name": "УЗИ-специалист",
+                "alias": "vrach_uzi"
+            }
+        ],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 25,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 42973,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Бессоницына Елена Юрьевна",
+        "surname": "",
+        "alias": "Bessonitsyna_Elena",
+        "sex": 2,
+        "url": "/doctor/Bessonitsyna_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/42973.162x162.jpg?1669505573",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/42973.640x400.jpg?1669505573",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 36,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 55655,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Голубев Геннадий Геннадьевич",
+        "surname": "",
+        "alias": "Golubev_Gennadiy",
+        "sex": 1,
+        "url": "/doctor/Golubev_Gennadiy",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/55655.162x162.jpg?1669505618",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/55655.640x400.jpg?1669505618",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 28,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 55661,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Петухова Валентина Алексеевна",
+        "surname": "",
+        "alias": "Petuhova_Valentina_2",
+        "sex": 2,
+        "url": "/doctor/Petuhova_Valentina_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/55661_20200904005023.162x162.jpg?1669505618",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/55661_20200904005023.640x400.jpg?1669505618",
+        "tipMessage": "Всего записалось 100 человек",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.9
+        },
+        "popularityRating": 191.43672141455,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "8 отзывов",
+        "countReviews": 8,
+        "topReviewsPercent": 75,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 75,
+                "name": "Кардиолог",
+                "alias": "kardiolog"
+            },
+            {
+                "id": 110,
+                "name": "Ревматолог",
+                "alias": "revmatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, пос. Ува, ул. Пушкина, д. 36",
+                "price": 800,
+                "specialPrice": 680,
+                "sectorNames": "Кардиолог, Ревматолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, пос. Игра, мкр. Нефтяников, д. 1",
+                "price": 800,
+                "specialPrice": 680,
+                "sectorNames": "Ревматолог, Кардиолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Петрова, д. 33Б",
+                "price": 1000,
+                "specialPrice": 850,
+                "sectorNames": "Ревматолог, Кардиолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. 30 Лет Победы, д. 43",
+                "price": 1000,
+                "specialPrice": 850,
+                "sectorNames": "Кардиолог, Ревматолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, с. Малая Пурга, Площадь Победы, д. 2",
+                "price": 680,
+                "specialPrice": null,
+                "sectorNames": "Кардиолог, Ревматолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Зои Космодемьянской, д. 15",
+                "price": 1000,
+                "specialPrice": 850,
+                "sectorNames": "Кардиолог, Ревматолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, Пушиной, с. Якшур-Бодья, д. 109",
+                "price": 1000,
+                "specialPrice": 850,
+                "sectorNames": "Ревматолог, Кардиолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "122960": {
+                "active": true,
+                "selected": true,
+                "id": 122960,
+                "name": "Академия здоровья в г. Ува",
+                "alias": "akademiya_zdorovya_v_g_uva",
+                "url": "/clinic/akademiya_zdorovya_v_g_uva",
+                "phone": "8 (341) 233-08-66",
+                "price": 800,
+                "specialPrice": 680,
+                "coords": [
+                    56.852676,
+                    53.2069
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "пос. Ува, ул. Пушкина",
+                    "house": "д. 36",
+                    "fullAddress": "г. Ижевск, пос. Ува, ул. Пушкина, д. 36"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 800,
+                        "specialPrice": 680
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "122976": {
+                "active": false,
+                "selected": false,
+                "id": 122976,
+                "name": "Академия здоровья в г. Игра",
+                "alias": "akademiya_zdorovya_v_g_igra",
+                "url": "/clinic/akademiya_zdorovya_v_g_igra",
+                "phone": "8 (341) 233-10-61",
+                "price": 800,
+                "specialPrice": 680,
+                "coords": [
+                    56.843929,
+                    53.217392
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "пос. Игра, мкр. Нефтяников",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, пос. Игра, мкр. Нефтяников, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 800,
+                        "specialPrice": 680
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "89126": {
+                "active": false,
+                "selected": false,
+                "id": 89126,
+                "name": "Академия здоровья на Петрова",
+                "alias": "akademiya_zdorovya_na_petrova",
+                "url": "/clinic/akademiya_zdorovya_na_petrova",
+                "phone": "8 (341) 233-10-29",
+                "price": 1000,
+                "specialPrice": 850,
+                "coords": [
+                    56.870061,
+                    53.290928
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Петрова",
+                    "house": "д. 33Б",
+                    "fullAddress": "г. Ижевск, ул. Петрова, д. 33Б"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1000,
+                        "specialPrice": 850
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "89128": {
+                "active": false,
+                "selected": false,
+                "id": 89128,
+                "name": "Академия здоровья на 30 Лет Победы",
+                "alias": "akademiya_zdorovya_na_30_let_pobedy",
+                "url": "/clinic/akademiya_zdorovya_na_30_let_pobedy",
+                "phone": "8 (341) 233-10-28",
+                "price": 1000,
+                "specialPrice": 850,
+                "coords": [
+                    56.872787,
+                    53.179349
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 30 Лет Победы",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. 30 Лет Победы, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1000,
+                        "specialPrice": 850
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "149705": {
+                "active": false,
+                "selected": false,
+                "id": 149705,
+                "name": "Академия здоровья в с. Малая Пурга",
+                "alias": "akademiya_zdorovya_v_s_malaya_purga",
+                "url": "/clinic/akademiya_zdorovya_v_s_malaya_purga",
+                "phone": "8 (341) 231-02-84",
+                "price": 680,
+                "specialPrice": null,
+                "coords": [
+                    56.555876,
+                    52.998908
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "с. Малая Пурга, Площадь Победы",
+                    "house": "д. 2",
+                    "fullAddress": "г. Ижевск, с. Малая Пурга, Площадь Победы, д. 2"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 680,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "9873": {
+                "active": false,
+                "selected": false,
+                "id": 9873,
+                "name": "Академия здоровья на Зои Космодемьянской",
+                "alias": "akademiya_zdorovya_na_zoi_kosmodemyanskoy",
+                "url": "/clinic/akademiya_zdorovya_na_zoi_kosmodemyanskoy",
+                "phone": "8 (341) 233-10-32",
+                "price": 1000,
+                "specialPrice": 850,
+                "coords": [
+                    56.831965,
+                    53.152354
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Зои Космодемьянской",
+                    "house": "д. 15",
+                    "fullAddress": "г. Ижевск, ул. Зои Космодемьянской, д. 15"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1000,
+                        "specialPrice": 850
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "122954": {
+                "active": false,
+                "selected": false,
+                "id": 122954,
+                "name": "Академия здоровья в г. Якшур-Бодья",
+                "alias": "akademiya_zdorovya_v_g_yakshur-bodya",
+                "url": "/clinic/akademiya_zdorovya_v_g_yakshur-bodya",
+                "phone": "8 (341) 233-09-44",
+                "price": 1000,
+                "specialPrice": 850,
+                "coords": [
+                    56.939755,
+                    53.194297
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Пушиной, с. Якшур-Бодья",
+                    "house": "д. 109",
+                    "fullAddress": "г. Ижевск, Пушиной, с. Якшур-Бодья, д. 109"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1000,
+                        "specialPrice": 850
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 57,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 55663,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Балобанов Владимир Юрьевич",
+        "surname": "",
+        "alias": "Balobanov_Vladimir",
+        "sex": 1,
+        "url": "/doctor/Balobanov_Vladimir",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/55663_20210514122826.162x162.jpg?1669505618",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/55663_20210514122826.640x400.jpg?1669505618",
+        "tipMessage": "Всего записалось 114 человек",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.9
+        },
+        "popularityRating": 215.46391898185,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "9 отзывов",
+        "countReviews": 9,
+        "topReviewsPercent": 66,
+        "rank": {
+            "id": 1,
+            "title": "Доцент"
+        },
+        "specialities": [
+            {
+                "id": 71,
+                "name": "Гастроэнтеролог",
+                "alias": "gastroenterolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Весенняя, д. 6",
+                "price": 1200,
+                "specialPrice": 1020,
+                "sectorNames": "Гастроэнтеролог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Зои Космодемьянской, д. 15",
+                "price": 1200,
+                "specialPrice": 1020,
+                "sectorNames": "Гастроэнтеролог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Совхозная, д. 1А, оф. 2",
+                "price": 1100,
+                "specialPrice": null,
+                "sectorNames": "Гастроэнтеролог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Петрова, д. 33Б",
+                "price": 1200,
+                "specialPrice": 1020,
+                "sectorNames": "Гастроэнтеролог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, пос. Ува, ул. Пушкина, д. 36",
+                "price": 1200,
+                "specialPrice": 1020,
+                "sectorNames": "Гастроэнтеролог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, пос. Игра, мкр. Нефтяников, д. 1",
+                "price": 1200,
+                "specialPrice": 1020,
+                "sectorNames": "Гастроэнтеролог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, с. Малая Пурга, Площадь Победы, д. 2",
+                "price": 1020,
+                "specialPrice": null,
+                "sectorNames": "Гастроэнтеролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "9871": {
+                "active": true,
+                "selected": true,
+                "id": 9871,
+                "name": "Академия здоровья на Весенней",
+                "alias": "akademiya_zdorovya",
+                "url": "/clinic/akademiya_zdorovya",
+                "phone": "8 (341) 231-02-87",
+                "price": 1200,
+                "specialPrice": 1020,
+                "coords": [
+                    56.854512,
+                    53.306882
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Весенняя",
+                    "house": "д. 6",
+                    "fullAddress": "г. Ижевск, ул. Весенняя, д. 6"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1020
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "9873": {
+                "active": false,
+                "selected": false,
+                "id": 9873,
+                "name": "Академия здоровья на Зои Космодемьянской",
+                "alias": "akademiya_zdorovya_na_zoi_kosmodemyanskoy",
+                "url": "/clinic/akademiya_zdorovya_na_zoi_kosmodemyanskoy",
+                "phone": "8 (341) 233-10-32",
+                "price": 1200,
+                "specialPrice": 1020,
+                "coords": [
+                    56.831965,
+                    53.152354
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Зои Космодемьянской",
+                    "house": "д. 15",
+                    "fullAddress": "г. Ижевск, ул. Зои Космодемьянской, д. 15"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1020
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "16781": {
+                "active": false,
+                "selected": false,
+                "id": 16781,
+                "name": "Линия Жизни",
+                "alias": "liniya_zhizni_2",
+                "url": "/clinic/liniya_zhizni_2",
+                "phone": "8 (495) 125-29-52",
+                "price": 1100,
+                "specialPrice": null,
+                "coords": [
+                    56.850629,
+                    53.251492
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Совхозная",
+                    "house": "д. 1А, оф. 2",
+                    "fullAddress": "г. Ижевск, ул. Совхозная, д. 1А, оф. 2"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1100,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "89126": {
+                "active": false,
+                "selected": false,
+                "id": 89126,
+                "name": "Академия здоровья на Петрова",
+                "alias": "akademiya_zdorovya_na_petrova",
+                "url": "/clinic/akademiya_zdorovya_na_petrova",
+                "phone": "8 (341) 233-10-29",
+                "price": 1200,
+                "specialPrice": 1020,
+                "coords": [
+                    56.870061,
+                    53.290928
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Петрова",
+                    "house": "д. 33Б",
+                    "fullAddress": "г. Ижевск, ул. Петрова, д. 33Б"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1020
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "122960": {
+                "active": false,
+                "selected": false,
+                "id": 122960,
+                "name": "Академия здоровья в г. Ува",
+                "alias": "akademiya_zdorovya_v_g_uva",
+                "url": "/clinic/akademiya_zdorovya_v_g_uva",
+                "phone": "8 (341) 233-08-66",
+                "price": 1200,
+                "specialPrice": 1020,
+                "coords": [
+                    56.852676,
+                    53.2069
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "пос. Ува, ул. Пушкина",
+                    "house": "д. 36",
+                    "fullAddress": "г. Ижевск, пос. Ува, ул. Пушкина, д. 36"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1020
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "122976": {
+                "active": false,
+                "selected": false,
+                "id": 122976,
+                "name": "Академия здоровья в г. Игра",
+                "alias": "akademiya_zdorovya_v_g_igra",
+                "url": "/clinic/akademiya_zdorovya_v_g_igra",
+                "phone": "8 (341) 233-10-61",
+                "price": 1200,
+                "specialPrice": 1020,
+                "coords": [
+                    56.843929,
+                    53.217392
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "пос. Игра, мкр. Нефтяников",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, пос. Игра, мкр. Нефтяников, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1020
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "149705": {
+                "active": false,
+                "selected": false,
+                "id": 149705,
+                "name": "Академия здоровья в с. Малая Пурга",
+                "alias": "akademiya_zdorovya_v_s_malaya_purga",
+                "url": "/clinic/akademiya_zdorovya_v_s_malaya_purga",
+                "phone": "8 (341) 231-02-84",
+                "price": 1020,
+                "specialPrice": null,
+                "coords": [
+                    56.555876,
+                    52.998908
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "с. Малая Пурга, Площадь Победы",
+                    "house": "д. 2",
+                    "fullAddress": "г. Ижевск, с. Малая Пурга, Площадь Победы, д. 2"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1020,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 37,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": true,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 55665,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Зеленин Кирилл Андреевич",
+        "surname": "",
+        "alias": "Zelenin_Kirill",
+        "sex": 1,
+        "url": "/doctor/Zelenin_Kirill",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/55665.162x162.jpg?1669505618",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/55665.640x400.jpg?1669505618",
+        "tipMessage": "Всего записалось 30 человек",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Потрясающий",
+            "rating": 0,
+            "doctorRating": 9.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "3 отзывов",
+        "countReviews": 3,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 17,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 55667,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Симбаева Ольга Вениаминовна",
+        "surname": "",
+        "alias": "Simbaeva_Olga",
+        "sex": 2,
+        "url": "/doctor/Simbaeva_Olga",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/55667.162x162.jpg?1669505618",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/55667.640x400.jpg?1669505618",
+        "tipMessage": "Всего записалось 19 человек",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 27,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 58945,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Берестова Наталья Сергеевна",
+        "surname": "",
+        "alias": "Berestova_Natalya",
+        "sex": 2,
+        "url": "/doctor/Berestova_Natalya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/58945.162x162.jpg?1669505629",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/58945.640x400.jpg?1669505629",
+        "tipMessage": "Всего записалось 64 человека",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 9
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "12 отзывов",
+        "countReviews": 12,
+        "topReviewsPercent": 91,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Совхозная, д. 1А, оф. 2",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "16781": {
+                "active": true,
+                "selected": true,
+                "id": 16781,
+                "name": "Линия Жизни",
+                "alias": "liniya_zhizni_2",
+                "url": "/clinic/liniya_zhizni_2",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850629,
+                    53.251492
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Совхозная",
+                    "house": "д. 1А, оф. 2",
+                    "fullAddress": "г. Ижевск, ул. Совхозная, д. 1А, оф. 2"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 20,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}
