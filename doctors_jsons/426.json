@@ -1,0 +1,1072 @@
+{"doctors": [
+    {
+        "id": 600846,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Абашева Илдия Талиповна",
+        "surname": "",
+        "alias": "Abasheva_Ildiya",
+        "sex": 2,
+        "url": "/doctor/Abasheva_Ildiya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 43",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98164": {
+                "active": true,
+                "selected": true,
+                "id": 98164,
+                "name": "Детская городская поликлиника №9 на Холмогорова",
+                "alias": "detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "url": "/clinic/detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.876363,
+                    53.217248
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 25,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 600870,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Алексеева Ольга Васильевна",
+        "surname": "",
+        "alias": "Alekseeva_Olga_37",
+        "sex": 2,
+        "url": "/doctor/Alekseeva_Olga_37",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 43",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98164": {
+                "active": true,
+                "selected": true,
+                "id": 98164,
+                "name": "Детская городская поликлиника №9 на Холмогорова",
+                "alias": "detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "url": "/clinic/detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.876363,
+                    53.217248
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 19,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 600904,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Булдакова Наталия Александровна",
+        "surname": "",
+        "alias": "Buldakova_Nataliya",
+        "sex": 2,
+        "url": "/doctor/Buldakova_Nataliya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 43",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98164": {
+                "active": true,
+                "selected": true,
+                "id": 98164,
+                "name": "Детская городская поликлиника №9 на Холмогорова",
+                "alias": "detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "url": "/clinic/detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.876363,
+                    53.217248
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 35,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 600924,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Волкова Ольга Юрьевна",
+        "surname": "",
+        "alias": "Volkova_Olga_29",
+        "sex": 2,
+        "url": "/doctor/Volkova_Olga_29",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 43",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98164": {
+                "active": true,
+                "selected": true,
+                "id": 98164,
+                "name": "Детская городская поликлиника №9 на Холмогорова",
+                "alias": "detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "url": "/clinic/detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.876363,
+                    53.217248
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 28,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 600944,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Волкова Наталья Владимировна",
+        "surname": "",
+        "alias": "Volkova_Natalya_25",
+        "sex": 2,
+        "url": "/doctor/Volkova_Natalya_25",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 77,
+                "name": "Лор (отоларинголог)",
+                "alias": "lor_otolaringolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 43",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Лор (отоларинголог)"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98164": {
+                "active": true,
+                "selected": true,
+                "id": 98164,
+                "name": "Детская городская поликлиника №9 на Холмогорова",
+                "alias": "detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "url": "/clinic/detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.876363,
+                    53.217248
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 25,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 600948,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Гарифуллина Эльмира Дамировна",
+        "surname": "",
+        "alias": "Garifullina_Elmira_3",
+        "sex": 2,
+        "url": "/doctor/Garifullina_Elmira_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 43",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98164": {
+                "active": true,
+                "selected": true,
+                "id": 98164,
+                "name": "Детская городская поликлиника №9 на Холмогорова",
+                "alias": "detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "url": "/clinic/detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.876363,
+                    53.217248
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 21,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 600962,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Гулина Лариса Анатольевна",
+        "surname": "",
+        "alias": "Gulina_Larisa",
+        "sex": 2,
+        "url": "/doctor/Gulina_Larisa",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 157,
+                "name": "Рентгенолог",
+                "alias": "rentgenolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 43",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Рентгенолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98164": {
+                "active": true,
+                "selected": true,
+                "id": 98164,
+                "name": "Детская городская поликлиника №9 на Холмогорова",
+                "alias": "detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "url": "/clinic/detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.876363,
+                    53.217248
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 35,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 600984,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Долбещенкова Елена Владимировна",
+        "surname": "",
+        "alias": "Dolbeshtenkova_Elena",
+        "sex": 2,
+        "url": "/doctor/Dolbeshtenkova_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 43",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98164": {
+                "active": true,
+                "selected": true,
+                "id": 98164,
+                "name": "Детская городская поликлиника №9 на Холмогорова",
+                "alias": "detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "url": "/clinic/detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.876363,
+                    53.217248
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 28,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 601000,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Зуфарова Айгуль Маратовна",
+        "surname": "",
+        "alias": "Zufarova_Aygul",
+        "sex": 2,
+        "url": "/doctor/Zufarova_Aygul",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 101,
+                "name": "Массажист",
+                "alias": "massazhist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 43",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Массажист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98164": {
+                "active": true,
+                "selected": true,
+                "id": 98164,
+                "name": "Детская городская поликлиника №9 на Холмогорова",
+                "alias": "detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "url": "/clinic/detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.876363,
+                    53.217248
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 25,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 601014,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Кузнецова Мария Дмитриевна",
+        "surname": "",
+        "alias": "Kuznetsova_Mariya_26",
+        "sex": 2,
+        "url": "/doctor/Kuznetsova_Mariya_26",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 43",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98164": {
+                "active": true,
+                "selected": true,
+                "id": 98164,
+                "name": "Детская городская поликлиника №9 на Холмогорова",
+                "alias": "detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "url": "/clinic/detskaya_gorodskaya_poliklinika_9_na_holmogorova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.876363,
+                    53.217248
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 31,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

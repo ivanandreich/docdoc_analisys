@@ -1,0 +1,1070 @@
+{"doctors": [
+    {
+        "id": 573510,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Ананьева Анна Сергеевна",
+        "surname": "",
+        "alias": "Ananeva_Anna_4",
+        "sex": 2,
+        "url": "/doctor/Ananeva_Anna_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ухтомского, д. 19",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95292": {
+                "active": true,
+                "selected": true,
+                "id": 95292,
+                "name": "Детская больница №3 Нейрон",
+                "alias": "detskaya_bolnitsa_3_neyron",
+                "url": "/clinic/detskaya_bolnitsa_3_neyron",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.844771,
+                    53.275217
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ухтомского",
+                    "house": "д. 19",
+                    "fullAddress": "г. Ижевск, ул. Ухтомского, д. 19"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 24,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 573512,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Вечтомова Ольга Владимировна",
+        "surname": "",
+        "alias": "Vechtomova_Olga",
+        "sex": 2,
+        "url": "/doctor/Vechtomova_Olga",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ухтомского, д. 19",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95292": {
+                "active": true,
+                "selected": true,
+                "id": 95292,
+                "name": "Детская больница №3 Нейрон",
+                "alias": "detskaya_bolnitsa_3_neyron",
+                "url": "/clinic/detskaya_bolnitsa_3_neyron",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.844771,
+                    53.275217
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ухтомского",
+                    "house": "д. 19",
+                    "fullAddress": "г. Ижевск, ул. Ухтомского, д. 19"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 20,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 573514,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Пчелина Елена Витальевна",
+        "surname": "",
+        "alias": "Pchelina_Elena_2",
+        "sex": 2,
+        "url": "/doctor/Pchelina_Elena_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ухтомского, д. 19",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95292": {
+                "active": true,
+                "selected": true,
+                "id": 95292,
+                "name": "Детская больница №3 Нейрон",
+                "alias": "detskaya_bolnitsa_3_neyron",
+                "url": "/clinic/detskaya_bolnitsa_3_neyron",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.844771,
+                    53.275217
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ухтомского",
+                    "house": "д. 19",
+                    "fullAddress": "г. Ижевск, ул. Ухтомского, д. 19"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 31,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 573516,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Стецура Светлана Семеновна",
+        "surname": "",
+        "alias": "Stetsura_Svetlana",
+        "sex": 2,
+        "url": "/doctor/Stetsura_Svetlana",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/573516_20201105010016.162x162.jpg?1669431100",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/573516_20201105010016.640x400.jpg?1669431100",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Коммунаров, д. 188",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95298": {
+                "active": true,
+                "selected": true,
+                "id": 95298,
+                "name": "Поликлиника детской больницы №3",
+                "alias": "poliklinika_detskoy_bolnitsy_3",
+                "url": "/clinic/poliklinika_detskoy_bolnitsy_3",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.838435,
+                    53.223079
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Коммунаров",
+                    "house": "д. 188",
+                    "fullAddress": "г. Ижевск, ул. Коммунаров, д. 188"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 24,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 573518,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Рябая Елена Евгеньевна",
+        "surname": "",
+        "alias": "Ryabaya_Elena",
+        "sex": 2,
+        "url": "/doctor/Ryabaya_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Коммунаров, д. 188",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95298": {
+                "active": true,
+                "selected": true,
+                "id": 95298,
+                "name": "Поликлиника детской больницы №3",
+                "alias": "poliklinika_detskoy_bolnitsy_3",
+                "url": "/clinic/poliklinika_detskoy_bolnitsy_3",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.838435,
+                    53.223079
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Коммунаров",
+                    "house": "д. 188",
+                    "fullAddress": "г. Ижевск, ул. Коммунаров, д. 188"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 34,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 573618,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Байбекова Ирина Федоровна",
+        "surname": "",
+        "alias": "Baybekova_Irina_2",
+        "sex": 2,
+        "url": "/doctor/Baybekova_Irina_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ухтомского, д. 19",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95292": {
+                "active": true,
+                "selected": true,
+                "id": 95292,
+                "name": "Детская больница №3 Нейрон",
+                "alias": "detskaya_bolnitsa_3_neyron",
+                "url": "/clinic/detskaya_bolnitsa_3_neyron",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.844771,
+                    53.275217
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ухтомского",
+                    "house": "д. 19",
+                    "fullAddress": "г. Ижевск, ул. Ухтомского, д. 19"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 0,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 573678,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Мизинова Марина Вячеславовна",
+        "surname": "",
+        "alias": "Mizinova_Marina",
+        "sex": 2,
+        "url": "/doctor/Mizinova_Marina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ухтомского, д. 19",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95292": {
+                "active": true,
+                "selected": true,
+                "id": 95292,
+                "name": "Детская больница №3 Нейрон",
+                "alias": "detskaya_bolnitsa_3_neyron",
+                "url": "/clinic/detskaya_bolnitsa_3_neyron",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.844771,
+                    53.275217
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ухтомского",
+                    "house": "д. 19",
+                    "fullAddress": "г. Ижевск, ул. Ухтомского, д. 19"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 5,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 573686,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Краснова Алина Николаевна",
+        "surname": "",
+        "alias": "Krasnova_Alina",
+        "sex": 2,
+        "url": "/doctor/Krasnova_Alina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ухтомского, д. 19",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95292": {
+                "active": true,
+                "selected": true,
+                "id": 95292,
+                "name": "Детская больница №3 Нейрон",
+                "alias": "detskaya_bolnitsa_3_neyron",
+                "url": "/clinic/detskaya_bolnitsa_3_neyron",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.844771,
+                    53.275217
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ухтомского",
+                    "house": "д. 19",
+                    "fullAddress": "г. Ижевск, ул. Ухтомского, д. 19"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 19,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 573794,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Смирнова Мария Владимировна",
+        "surname": "",
+        "alias": "Smirnova_Mariya_20",
+        "sex": 2,
+        "url": "/doctor/Smirnova_Mariya_20",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ухтомского, д. 19",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95292": {
+                "active": true,
+                "selected": true,
+                "id": 95292,
+                "name": "Детская больница №3 Нейрон",
+                "alias": "detskaya_bolnitsa_3_neyron",
+                "url": "/clinic/detskaya_bolnitsa_3_neyron",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.844771,
+                    53.275217
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ухтомского",
+                    "house": "д. 19",
+                    "fullAddress": "г. Ижевск, ул. Ухтомского, д. 19"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 24,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 573802,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Пермякова Лариса Алексеевна",
+        "surname": "",
+        "alias": "Permyakova_Larisa_4",
+        "sex": 2,
+        "url": "/doctor/Permyakova_Larisa_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ухтомского, д. 19",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95292": {
+                "active": true,
+                "selected": true,
+                "id": 95292,
+                "name": "Детская больница №3 Нейрон",
+                "alias": "detskaya_bolnitsa_3_neyron",
+                "url": "/clinic/detskaya_bolnitsa_3_neyron",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.844771,
+                    53.275217
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ухтомского",
+                    "house": "д. 19",
+                    "fullAddress": "г. Ижевск, ул. Ухтомского, д. 19"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 44,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

@@ -1,0 +1,1121 @@
+{"doctors": [
+    {
+        "id": 606138,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Сорокина Валентина Григорьевна",
+        "surname": "",
+        "alias": "Sorokina_Valentina_5",
+        "sex": 2,
+        "url": "/doctor/Sorokina_Valentina_5",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 72,
+                "name": "Гинеколог",
+                "alias": "ginekolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Гинеколог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98510": {
+                "active": true,
+                "selected": true,
+                "id": 98510,
+                "name": "ГП №10 МЗ УР Поликлиника №1 на 50 лет Пионерии",
+                "alias": "gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.859424,
+                    53.182178
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 50 лет Пионерии",
+                    "house": "д. 39",
+                    "fullAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 42,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 606142,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Спиридонова Марина Олеговна",
+        "surname": "",
+        "alias": "Spiridonova_Marina_2",
+        "sex": 2,
+        "url": "/doctor/Spiridonova_Marina_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 67,
+                "name": "Акушер",
+                "alias": "akusher"
+            },
+            {
+                "id": 72,
+                "name": "Гинеколог",
+                "alias": "ginekolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Акушер, Гинеколог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 3,
+        "categoryTitle": "Врач второй категории",
+        "experience": 15,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 606150,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Гусева Галина Аркадьевна",
+        "surname": "",
+        "alias": "Guseva_Galina_5",
+        "sex": 2,
+        "url": "/doctor/Guseva_Galina_5",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98510": {
+                "active": true,
+                "selected": true,
+                "id": 98510,
+                "name": "ГП №10 МЗ УР Поликлиника №1 на 50 лет Пионерии",
+                "alias": "gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.859424,
+                    53.182178
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 50 лет Пионерии",
+                    "house": "д. 39",
+                    "fullAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 31,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 606156,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Козырева Татьяна Сергеевна",
+        "surname": "",
+        "alias": "Kozyreva_Tatyana_5",
+        "sex": 2,
+        "url": "/doctor/Kozyreva_Tatyana_5",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/606156_20201206225106.162x162.jpg?1669431486",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/606156_20201206225106.640x400.jpg?1669431486",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 157,
+                "name": "Рентгенолог",
+                "alias": "rentgenolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Рентгенолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, Ул. Серова, д. 69",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Рентгенолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "99332": {
+                "active": false,
+                "selected": false,
+                "id": 99332,
+                "name": "ЛДЦ МИБС (МРТ на Серова)",
+                "alias": "ldts_mibs_mrt_na_serova",
+                "url": "/clinic/ldts_mibs_mrt_na_serova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.868546,
+                    53.241287
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Ул. Серова",
+                    "house": "д. 69",
+                    "fullAddress": "г. Ижевск, Ул. Серова, д. 69"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 3,
+        "categoryTitle": "Врач второй категории",
+        "experience": 24,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 606164,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Широбокова Зоя Германовна",
+        "surname": "",
+        "alias": "Shirobokova_Zoya",
+        "sex": 2,
+        "url": "/doctor/Shirobokova_Zoya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 70,
+                "name": "Венеролог",
+                "alias": "venerolog"
+            },
+            {
+                "id": 246,
+                "name": "Дерматовенеролог",
+                "alias": "dermatovenerolog"
+            },
+            {
+                "id": 73,
+                "name": "Дерматолог",
+                "alias": "dermatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Венеролог, Дерматолог, Дерматовенеролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98510": {
+                "active": true,
+                "selected": true,
+                "id": 98510,
+                "name": "ГП №10 МЗ УР Поликлиника №1 на 50 лет Пионерии",
+                "alias": "gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.859424,
+                    53.182178
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 50 лет Пионерии",
+                    "house": "д. 39",
+                    "fullAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 40,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 606166,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Шалаева Лилия Саитовна",
+        "surname": "",
+        "alias": "Shalaeva_Liliya",
+        "sex": 2,
+        "url": "/doctor/Shalaeva_Liliya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 67,
+                "name": "Акушер",
+                "alias": "akusher"
+            },
+            {
+                "id": 72,
+                "name": "Гинеколог",
+                "alias": "ginekolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Акушер, Гинеколог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 23,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 606182,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Аверкиева Кристина Владимировна",
+        "surname": "",
+        "alias": "Averkieva_Kristina",
+        "sex": 2,
+        "url": "/doctor/Averkieva_Kristina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98510": {
+                "active": true,
+                "selected": true,
+                "id": 98510,
+                "name": "ГП №10 МЗ УР Поликлиника №1 на 50 лет Пионерии",
+                "alias": "gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.859424,
+                    53.182178
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 50 лет Пионерии",
+                    "house": "д. 39",
+                    "fullAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 3,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 606188,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Усманова Динара Вадутовна",
+        "surname": "",
+        "alias": "Usmanova_Dinara",
+        "sex": 2,
+        "url": "/doctor/Usmanova_Dinara",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98510": {
+                "active": true,
+                "selected": true,
+                "id": 98510,
+                "name": "ГП №10 МЗ УР Поликлиника №1 на 50 лет Пионерии",
+                "alias": "gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.859424,
+                    53.182178
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 50 лет Пионерии",
+                    "house": "д. 39",
+                    "fullAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 28,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 606190,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Мукминова Елена Владимировна",
+        "surname": "",
+        "alias": "Mukminova_Elena",
+        "sex": 2,
+        "url": "/doctor/Mukminova_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/606190_20201206225312.162x162.jpg?1669431486",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/606190_20201206225312.640x400.jpg?1669431486",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 67,
+                "name": "Акушер",
+                "alias": "akusher"
+            },
+            {
+                "id": 72,
+                "name": "Гинеколог",
+                "alias": "ginekolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Акушер, Гинеколог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 31,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 606192,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Караваева Анжелика Николаевна",
+        "surname": "",
+        "alias": "Karavaeva_Anzhelika",
+        "sex": 2,
+        "url": "/doctor/Karavaeva_Anzhelika",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98510": {
+                "active": true,
+                "selected": true,
+                "id": 98510,
+                "name": "ГП №10 МЗ УР Поликлиника №1 на 50 лет Пионерии",
+                "alias": "gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.859424,
+                    53.182178
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 50 лет Пионерии",
+                    "house": "д. 39",
+                    "fullAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 27,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

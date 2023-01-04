@@ -1,0 +1,1264 @@
+{"doctors": [
+    {
+        "id": 601254,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Коровкин Вадим Афанасьевич",
+        "surname": "",
+        "alias": "Korovkin_Vadim",
+        "sex": 1,
+        "url": "/doctor/Korovkin_Vadim",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/601254_20201207182607.162x162.jpg?1669431433",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/601254_20201207182607.640x400.jpg?1669431433",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 252,
+                "name": "Абдоминальный хирург",
+                "alias": "abdominalnii-hirurg"
+            },
+            {
+                "id": 95,
+                "name": "Хирург",
+                "alias": "hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Шумайлова, д. 20а",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Хирург, Абдоминальный хирург"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Промышленная, д. 52",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Хирург, Абдоминальный хирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "7273": {
+                "active": true,
+                "selected": true,
+                "id": 7273,
+                "name": "Медицея на Шумайлова",
+                "alias": "meditseya",
+                "url": "/clinic/meditseya",
+                "phone": "8 (341) 231-02-74",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863272,
+                    53.198644
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Шумайлова",
+                    "house": "д. 20а",
+                    "fullAddress": "г. Ижевск, ул. Шумайлова, д. 20а"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "97694": {
+                "active": false,
+                "selected": false,
+                "id": 97694,
+                "name": "Городская клиническая больница № 9",
+                "alias": "gorodskaya_klinicheskaya_bolnitsa_9",
+                "url": "/clinic/gorodskaya_klinicheskaya_bolnitsa_9",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.83614,
+                    53.241871
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Промышленная",
+                    "house": "д. 52",
+                    "fullAddress": "г. Ижевск, ул. Промышленная, д. 52"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 41,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": true,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "В стоимость первичного приема врача-хирурга\n гарантированно входит консультация, осмотр и назначение лечения.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 601260,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Амракулов Назирбек Нуралиевич",
+        "surname": "",
+        "alias": "Amrakulov_Nazirbek",
+        "sex": 1,
+        "url": "/doctor/Amrakulov_Nazirbek",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 185,
+                "name": "Травматолог",
+                "alias": "travmatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Краева, д. 37А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Травматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98368": {
+                "active": true,
+                "selected": true,
+                "id": 98368,
+                "name": "Городская больница № 3 Травмпункт",
+                "alias": "gorodskaya_bolnitsa_3_travmpunkt",
+                "url": "/clinic/gorodskaya_bolnitsa_3_travmpunkt",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.842472,
+                    53.235646
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Краева",
+                    "house": "д. 37А",
+                    "fullAddress": "г. Ижевск, ул. Краева, д. 37А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 12,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 601272,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Мавринская Елена Николаевна",
+        "surname": "",
+        "alias": "Mavrinskaya_Elena",
+        "sex": 2,
+        "url": "/doctor/Mavrinskaya_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 83,
+                "name": "Ортопед",
+                "alias": "ortoped"
+            },
+            {
+                "id": 185,
+                "name": "Травматолог",
+                "alias": "travmatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Краева, д. 37А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Ортопед, Травматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98368": {
+                "active": true,
+                "selected": true,
+                "id": 98368,
+                "name": "Городская больница № 3 Травмпункт",
+                "alias": "gorodskaya_bolnitsa_3_travmpunkt",
+                "url": "/clinic/gorodskaya_bolnitsa_3_travmpunkt",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.842472,
+                    53.235646
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Краева",
+                    "house": "д. 37А",
+                    "fullAddress": "г. Ижевск, ул. Краева, д. 37А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 8,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 601296,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Стеньшин Анатолий Сергеевич",
+        "surname": "",
+        "alias": "Stenshin_Anatoliy",
+        "sex": 1,
+        "url": "/doctor/Stenshin_Anatoliy",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/601296_20201207182722.162x162.jpg?1669431433",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/601296_20201207182722.640x400.jpg?1669431433",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 252,
+                "name": "Абдоминальный хирург",
+                "alias": "abdominalnii-hirurg"
+            },
+            {
+                "id": 95,
+                "name": "Хирург",
+                "alias": "hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Промышленная, д. 52",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Хирург, Абдоминальный хирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97694": {
+                "active": true,
+                "selected": true,
+                "id": 97694,
+                "name": "Городская клиническая больница № 9",
+                "alias": "gorodskaya_klinicheskaya_bolnitsa_9",
+                "url": "/clinic/gorodskaya_klinicheskaya_bolnitsa_9",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.83614,
+                    53.241871
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Промышленная",
+                    "house": "д. 52",
+                    "fullAddress": "г. Ижевск, ул. Промышленная, д. 52"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 37,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 601360,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Нуриев Руслан Фаритович",
+        "surname": "",
+        "alias": "Nuriev_Ruslan",
+        "sex": 1,
+        "url": "/doctor/Nuriev_Ruslan",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 83,
+                "name": "Ортопед",
+                "alias": "ortoped"
+            },
+            {
+                "id": 185,
+                "name": "Травматолог",
+                "alias": "travmatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Краева, д. 37А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Ортопед, Травматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98368": {
+                "active": true,
+                "selected": true,
+                "id": 98368,
+                "name": "Городская больница № 3 Травмпункт",
+                "alias": "gorodskaya_bolnitsa_3_travmpunkt",
+                "url": "/clinic/gorodskaya_bolnitsa_3_travmpunkt",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.842472,
+                    53.235646
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Краева",
+                    "house": "д. 37А",
+                    "fullAddress": "г. Ижевск, ул. Краева, д. 37А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 3,
+        "categoryTitle": "Врач второй категории",
+        "experience": 12,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 601368,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Пономарев Сергей Вячеславович",
+        "surname": "",
+        "alias": "Ponomarev_Sergey_9",
+        "sex": 1,
+        "url": "/doctor/Ponomarev_Sergey_9",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/601368_20210706150817.162x162.jpg?1669431434",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/601368_20210706150817.640x400.jpg?1669431434",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.9
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 107,
+                "name": "Анестезиолог",
+                "alias": "anesteziolog"
+            },
+            {
+                "id": 250,
+                "name": "Анестезиолог-реаниматолог",
+                "alias": "anesteziolog-reanimatolog"
+            },
+            {
+                "id": 204,
+                "name": "Реаниматолог",
+                "alias": "reanimatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Совхозная, д. 3а",
+                "price": 1100,
+                "specialPrice": 935,
+                "sectorNames": "Анестезиолог, Реаниматолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Совхозная, д. 3а",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Анестезиолог-реаниматолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Промышленная, д. 52",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Анестезиолог, Реаниматолог, Анестезиолог-реаниматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95252": {
+                "active": true,
+                "selected": true,
+                "id": 95252,
+                "name": "Медиаль",
+                "alias": "tsentr_sovremennoy_urologii_i_hirurgii_medial",
+                "url": "/clinic/tsentr_sovremennoy_urologii_i_hirurgii_medial",
+                "phone": "8 (341) 233-10-71",
+                "price": 1100,
+                "specialPrice": 935,
+                "coords": [
+                    56.851564,
+                    53.253001
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Совхозная",
+                    "house": "д. 3а",
+                    "fullAddress": "г. Ижевск, ул. Совхозная, д. 3а"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1100,
+                        "specialPrice": 935
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "97694": {
+                "active": false,
+                "selected": false,
+                "id": 97694,
+                "name": "Городская клиническая больница № 9",
+                "alias": "gorodskaya_klinicheskaya_bolnitsa_9",
+                "url": "/clinic/gorodskaya_klinicheskaya_bolnitsa_9",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.83614,
+                    53.241871
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Промышленная",
+                    "house": "д. 52",
+                    "fullAddress": "г. Ижевск, ул. Промышленная, д. 52"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 23,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 601388,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Бабкина Валентина Васильевна",
+        "surname": "",
+        "alias": "Babkina_Valentina",
+        "sex": 2,
+        "url": "/doctor/Babkina_Valentina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Нагорная, д. 56",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Нагорная, д. 56",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98360": {
+                "active": true,
+                "selected": true,
+                "id": 98360,
+                "name": "Городская больница № 3 МЗ УР",
+                "alias": "gorodskaya_bolnitsa_3_mz_ur",
+                "url": "/clinic/gorodskaya_bolnitsa_3_mz_ur",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.822183,
+                    53.16237
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Нагорная",
+                    "house": "д. 56",
+                    "fullAddress": "г. Ижевск, ул. Нагорная, д. 56"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "98364": {
+                "active": false,
+                "selected": false,
+                "id": 98364,
+                "name": "Городская больница № 3 Поликлиника №3 на Нагорной",
+                "alias": "gorodskaya_bolnitsa_3_poliklinika_3_na_nagornoy",
+                "url": "/clinic/gorodskaya_bolnitsa_3_poliklinika_3_na_nagornoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.822183,
+                    53.16237
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Нагорная",
+                    "house": "д. 56",
+                    "fullAddress": "г. Ижевск, ул. Нагорная, д. 56"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 42,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 601404,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Тройников Алексей Сергеевич",
+        "surname": "",
+        "alias": "Troynikov_Aleksey",
+        "sex": 1,
+        "url": "/doctor/Troynikov_Aleksey",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/601404_20201201205851.162x162.jpg?1669431434",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/601404_20201201205851.640x400.jpg?1669431434",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Нагорная, д. 56",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            },
+            {
+                "clinicAddress": "г. Ижевск, пр. 8-й Подлесный, д. 11",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98364": {
+                "active": true,
+                "selected": true,
+                "id": 98364,
+                "name": "Городская больница № 3 Поликлиника №3 на Нагорной",
+                "alias": "gorodskaya_bolnitsa_3_poliklinika_3_na_nagornoy",
+                "url": "/clinic/gorodskaya_bolnitsa_3_poliklinika_3_na_nagornoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.822183,
+                    53.16237
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Нагорная",
+                    "house": "д. 56",
+                    "fullAddress": "г. Ижевск, ул. Нагорная, д. 56"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "98514": {
+                "active": false,
+                "selected": false,
+                "id": 98514,
+                "name": "ГП №10 МЗ УР Поликлиника №2 - проезд 8-й Подлесной",
+                "alias": "gp_10_mz_ur_poliklinika_2_-_proezd_8-y_podlesnoy",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_2_-_proezd_8-y_podlesnoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.872059,
+                    53.1902
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "пр. 8-й Подлесный",
+                    "house": "д. 11",
+                    "fullAddress": "г. Ижевск, пр. 8-й Подлесный, д. 11"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 17,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 601416,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Шарафутдинова Валентина Ивановна",
+        "surname": "",
+        "alias": "Sharafutdinova_Valentina",
+        "sex": 2,
+        "url": "/doctor/Sharafutdinova_Valentina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Нагорная, д. 56",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98364": {
+                "active": true,
+                "selected": true,
+                "id": 98364,
+                "name": "Городская больница № 3 Поликлиника №3 на Нагорной",
+                "alias": "gorodskaya_bolnitsa_3_poliklinika_3_na_nagornoy",
+                "url": "/clinic/gorodskaya_bolnitsa_3_poliklinika_3_na_nagornoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.822183,
+                    53.16237
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Нагорная",
+                    "house": "д. 56",
+                    "fullAddress": "г. Ижевск, ул. Нагорная, д. 56"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 40,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 601426,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Наймушина Татьяна Юрьевна",
+        "surname": "",
+        "alias": "Naymushina_Tatyana_4",
+        "sex": 2,
+        "url": "/doctor/Naymushina_Tatyana_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Нагорная, д. 56",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98364": {
+                "active": true,
+                "selected": true,
+                "id": 98364,
+                "name": "Городская больница № 3 Поликлиника №3 на Нагорной",
+                "alias": "gorodskaya_bolnitsa_3_poliklinika_3_na_nagornoy",
+                "url": "/clinic/gorodskaya_bolnitsa_3_poliklinika_3_na_nagornoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.822183,
+                    53.16237
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Нагорная",
+                    "house": "д. 56",
+                    "fullAddress": "г. Ижевск, ул. Нагорная, д. 56"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 24,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

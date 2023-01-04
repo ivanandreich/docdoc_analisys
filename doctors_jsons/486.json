@@ -1,0 +1,839 @@
+{"doctors": [
+    {
+        "id": 612116,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Поткин Кирилл Вадимович",
+        "surname": "",
+        "alias": "Potkin_Kirill",
+        "sex": 1,
+        "url": "/doctor/Potkin_Kirill",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/612116_20201209230615.162x162.jpg?1669431550",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/612116_20201209230615.640x400.jpg?1669431550",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.4
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 4,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 612126,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Феофилактова Анастасия Владимировна",
+        "surname": "",
+        "alias": "Feofilaktova_Anastasiya",
+        "sex": 2,
+        "url": "/doctor/Feofilaktova_Anastasiya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/612126_20201209232255.162x162.jpg?1669431550",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/612126_20201209232255.640x400.jpg?1669431550",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.2
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 181,
+                "name": "Врач функциональной диагностики",
+                "alias": "vrach-funkcionalnoy-diagnostiki"
+            },
+            {
+                "id": 100,
+                "name": "УЗИ-специалист",
+                "alias": "vrach_uzi"
+            }
+        ],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 8,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 612136,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Александрова Наталья Вячеславовна",
+        "surname": "",
+        "alias": "Aleksandrova_Natalya_22",
+        "sex": 2,
+        "url": "/doctor/Aleksandrova_Natalya_22",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/612136_20201209233447.162x162.jpg?1669431551",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/612136_20201209233447.640x400.jpg?1669431551",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.9
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 252,
+                "name": "Абдоминальный хирург",
+                "alias": "abdominalnii-hirurg"
+            },
+            {
+                "id": 95,
+                "name": "Хирург",
+                "alias": "hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Шумайлова, д. 20а",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Хирург, Абдоминальный хирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "7273": {
+                "active": true,
+                "selected": true,
+                "id": 7273,
+                "name": "Медицея на Шумайлова",
+                "alias": "meditseya",
+                "url": "/clinic/meditseya",
+                "phone": "8 (341) 231-02-74",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863272,
+                    53.198644
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Шумайлова",
+                    "house": "д. 20а",
+                    "fullAddress": "г. Ижевск, ул. Шумайлова, д. 20а"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 40,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": true,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "В стоимость первичного приема врача-хирурга\n гарантированно входит консультация, осмотр и назначение лечения.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 612208,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Сухова Дарья Владиславовна",
+        "surname": "",
+        "alias": "Suhova_Darya_2",
+        "sex": 2,
+        "url": "/doctor/Suhova_Darya_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/612208_20201210011948.162x162.jpg?1669431552",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/612208_20201210011948.640x400.jpg?1669431552",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Потрясающий",
+            "rating": 0,
+            "doctorRating": 9.5
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            },
+            {
+                "id": 173,
+                "name": "Эпилептолог",
+                "alias": "epileptolog"
+            }
+        ],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 22,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 612210,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Абаза Елена Николаевна",
+        "surname": "",
+        "alias": "Abaza_Elena",
+        "sex": 2,
+        "url": "/doctor/Abaza_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/612210_20201210012831.162x162.jpg?1669431552",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/612210_20201210012831.640x400.jpg?1669431552",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 157,
+                "name": "Рентгенолог",
+                "alias": "rentgenolog"
+            }
+        ],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 27,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 612212,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Жуйкова Тамара Петровна",
+        "surname": "",
+        "alias": "Zhuykova_Tamara",
+        "sex": 2,
+        "url": "/doctor/Zhuykova_Tamara",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/612212_20201210013801.162x162.jpg?1669431552",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/612212_20201210013801.640x400.jpg?1669431552",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 157,
+                "name": "Рентгенолог",
+                "alias": "rentgenolog"
+            }
+        ],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 41,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 612214,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Ельцов Павел Сергеевич",
+        "surname": "",
+        "alias": "Eltsov_Pavel",
+        "sex": 1,
+        "url": "/doctor/Eltsov_Pavel",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/612214_20201210014230.162x162.jpg?1669431552",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/612214_20201210014230.640x400.jpg?1669431552",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 157,
+                "name": "Рентгенолог",
+                "alias": "rentgenolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Ул. Серова, д. 69",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Рентгенолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "99332": {
+                "active": true,
+                "selected": true,
+                "id": 99332,
+                "name": "ЛДЦ МИБС (МРТ на Серова)",
+                "alias": "ldts_mibs_mrt_na_serova",
+                "url": "/clinic/ldts_mibs_mrt_na_serova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.868546,
+                    53.241287
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Ул. Серова",
+                    "house": "д. 69",
+                    "fullAddress": "г. Ижевск, Ул. Серова, д. 69"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 8,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 612216,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Тройников Владимир Георгиевич",
+        "surname": "",
+        "alias": "Troynikov_Vladimir_2",
+        "sex": 1,
+        "url": "/doctor/Troynikov_Vladimir_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/612216_20201210014540.162x162.jpg?1669431552",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/612216_20201210014540.640x400.jpg?1669431552",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Потрясающий",
+            "rating": 0,
+            "doctorRating": 9.2
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 139,
+                "name": "Нейрохирург",
+                "alias": "neirohirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Ул. Серова, д. 69",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Нейрохирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "99332": {
+                "active": true,
+                "selected": true,
+                "id": 99332,
+                "name": "ЛДЦ МИБС (МРТ на Серова)",
+                "alias": "ldts_mibs_mrt_na_serova",
+                "url": "/clinic/ldts_mibs_mrt_na_serova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.868546,
+                    53.241287
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Ул. Серова",
+                    "house": "д. 69",
+                    "fullAddress": "г. Ижевск, Ул. Серова, д. 69"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 50,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 612228,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Пушной Павел Владимирович",
+        "surname": "",
+        "alias": "Pushnoy_Pavel_2",
+        "sex": 1,
+        "url": "/doctor/Pushnoy_Pavel_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/612228_20201210082622.162x162.jpg?1669431552",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/612228_20201210082622.640x400.jpg?1669431552",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Ул. Серова, д. 69",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "99332": {
+                "active": true,
+                "selected": true,
+                "id": 99332,
+                "name": "ЛДЦ МИБС (МРТ на Серова)",
+                "alias": "ldts_mibs_mrt_na_serova",
+                "url": "/clinic/ldts_mibs_mrt_na_serova",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.868546,
+                    53.241287
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Ул. Серова",
+                    "house": "д. 69",
+                    "fullAddress": "г. Ижевск, Ул. Серова, д. 69"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 14,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 612244,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Соколов Олег Артемьевич",
+        "surname": "",
+        "alias": "Sokolov_Oleg_7",
+        "sex": 1,
+        "url": "/doctor/Sokolov_Oleg_7",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/612244_20201210085425.162x162.jpg?1669431552",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/612244_20201210085425.640x400.jpg?1669431552",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Потрясающий",
+            "rating": 0,
+            "doctorRating": 9.3
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 88,
+                "name": "Психотерапевт",
+                "alias": "psihoterapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Совхозная, д. 1А, оф. 2",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Психотерапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "16781": {
+                "active": true,
+                "selected": true,
+                "id": 16781,
+                "name": "Линия Жизни",
+                "alias": "liniya_zhizni_2",
+                "url": "/clinic/liniya_zhizni_2",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850629,
+                    53.251492
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Совхозная",
+                    "house": "д. 1А, оф. 2",
+                    "fullAddress": "г. Ижевск, ул. Совхозная, д. 1А, оф. 2"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 32,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

@@ -1,0 +1,1126 @@
+{"doctors": [
+    {
+        "id": 585618,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Явгареева Ольга Анатольевна",
+        "surname": "",
+        "alias": "Yavgareeva_Olga",
+        "sex": 2,
+        "url": "/doctor/Yavgareeva_Olga",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Советская, д. 20",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96768": {
+                "active": true,
+                "selected": true,
+                "id": 96768,
+                "name": "Стоматологическая поликлиника №1 на Советской",
+                "alias": "stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "url": "/clinic/stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845756,
+                    53.217428
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Советская",
+                    "house": "д. 20",
+                    "fullAddress": "г. Ижевск, ул. Советская, д. 20"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 27,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 585622,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Фаттиева Елена Валериевна",
+        "surname": "",
+        "alias": "Fattieva_Elena",
+        "sex": 2,
+        "url": "/doctor/Fattieva_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Советская, д. 20",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96768": {
+                "active": true,
+                "selected": true,
+                "id": 96768,
+                "name": "Стоматологическая поликлиника №1 на Советской",
+                "alias": "stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "url": "/clinic/stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845756,
+                    53.217428
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Советская",
+                    "house": "д. 20",
+                    "fullAddress": "г. Ижевск, ул. Советская, д. 20"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 27,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 585628,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Фирулева Татьяна Юрьевна",
+        "surname": "",
+        "alias": "Firuleva_Tatyana_2",
+        "sex": 2,
+        "url": "/doctor/Firuleva_Tatyana_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Советская, д. 20",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96768": {
+                "active": true,
+                "selected": true,
+                "id": 96768,
+                "name": "Стоматологическая поликлиника №1 на Советской",
+                "alias": "stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "url": "/clinic/stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845756,
+                    53.217428
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Советская",
+                    "house": "д. 20",
+                    "fullAddress": "г. Ижевск, ул. Советская, д. 20"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 33,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 585632,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Гаврилова Наталья Павловна",
+        "surname": "",
+        "alias": "Gavrilova_Natalya_11",
+        "sex": 2,
+        "url": "/doctor/Gavrilova_Natalya_11",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Советская, д. 20",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96768": {
+                "active": true,
+                "selected": true,
+                "id": 96768,
+                "name": "Стоматологическая поликлиника №1 на Советской",
+                "alias": "stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "url": "/clinic/stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845756,
+                    53.217428
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Советская",
+                    "house": "д. 20",
+                    "fullAddress": "г. Ижевск, ул. Советская, д. 20"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 45,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 585640,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Зотова Марина Дмитриевна",
+        "surname": "",
+        "alias": "Zotova_Marina_5",
+        "sex": 2,
+        "url": "/doctor/Zotova_Marina_5",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Советская, д. 20",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96768": {
+                "active": true,
+                "selected": true,
+                "id": 96768,
+                "name": "Стоматологическая поликлиника №1 на Советской",
+                "alias": "stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "url": "/clinic/stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845756,
+                    53.217428
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Советская",
+                    "house": "д. 20",
+                    "fullAddress": "г. Ижевск, ул. Советская, д. 20"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 42,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 585648,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Тюкин Сергей Юрьевич",
+        "surname": "",
+        "alias": "Tyukin_Sergey",
+        "sex": 1,
+        "url": "/doctor/Tyukin_Sergey",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Советская, д. 20",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96768": {
+                "active": true,
+                "selected": true,
+                "id": 96768,
+                "name": "Стоматологическая поликлиника №1 на Советской",
+                "alias": "stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "url": "/clinic/stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845756,
+                    53.217428
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Советская",
+                    "house": "д. 20",
+                    "fullAddress": "г. Ижевск, ул. Советская, д. 20"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 26,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 585650,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Петерс Марина Вадимовна",
+        "surname": "",
+        "alias": "Peters_Marina_2",
+        "sex": 2,
+        "url": "/doctor/Peters_Marina_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Советская, д. 20",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 108-Б",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96768": {
+                "active": true,
+                "selected": true,
+                "id": 96768,
+                "name": "Стоматологическая поликлиника №1 на Советской",
+                "alias": "stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "url": "/clinic/stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845756,
+                    53.217428
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Советская",
+                    "house": "д. 20",
+                    "fullAddress": "г. Ижевск, ул. Советская, д. 20"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "98526": {
+                "active": false,
+                "selected": false,
+                "id": 98526,
+                "name": "Стоматологический салон Евродент",
+                "alias": "stomatologicheskiy_salon_evrodent",
+                "url": "/clinic/stomatologicheskiy_salon_evrodent",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.847956,
+                    53.259164
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 108-Б",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 108-Б"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 3,
+        "categoryTitle": "Врач второй категории",
+        "experience": 12,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 585652,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Суворов Александр Васильевич",
+        "surname": "",
+        "alias": "Suvorov_Aleksandr_6",
+        "sex": 1,
+        "url": "/doctor/Suvorov_Aleksandr_6",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 127,
+                "name": "Стоматолог-хирург",
+                "alias": "stomatolog-hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Советская, д. 20",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-хирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96768": {
+                "active": true,
+                "selected": true,
+                "id": 96768,
+                "name": "Стоматологическая поликлиника №1 на Советской",
+                "alias": "stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "url": "/clinic/stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845756,
+                    53.217428
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Советская",
+                    "house": "д. 20",
+                    "fullAddress": "г. Ижевск, ул. Советская, д. 20"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 3,
+        "categoryTitle": "Врач второй категории",
+        "experience": 9,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 585656,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Обухова Вероника Валерьевна",
+        "surname": "",
+        "alias": "Obuhova_Veronika",
+        "sex": 2,
+        "url": "/doctor/Obuhova_Veronika",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Советская, д. 20",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96768": {
+                "active": true,
+                "selected": true,
+                "id": 96768,
+                "name": "Стоматологическая поликлиника №1 на Советской",
+                "alias": "stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "url": "/clinic/stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845756,
+                    53.217428
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Советская",
+                    "house": "д. 20",
+                    "fullAddress": "г. Ижевск, ул. Советская, д. 20"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 3,
+        "categoryTitle": "Врач второй категории",
+        "experience": 8,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 585658,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Черных Дарья Дмитриевна",
+        "surname": "",
+        "alias": "Chernyh_Darya",
+        "sex": 2,
+        "url": "/doctor/Chernyh_Darya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.4
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Советская, д. 20",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96768": {
+                "active": true,
+                "selected": true,
+                "id": 96768,
+                "name": "Стоматологическая поликлиника №1 на Советской",
+                "alias": "stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "url": "/clinic/stomatologicheskaya_poliklinika_1_na_sovetskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845756,
+                    53.217428
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Советская",
+                    "house": "д. 20",
+                    "fullAddress": "г. Ижевск, ул. Советская, д. 20"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 9,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

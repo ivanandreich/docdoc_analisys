@@ -1,0 +1,1089 @@
+{"doctors": [
+    {
+        "id": 555898,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Малыгина Оксана Ортикалиевна",
+        "surname": "",
+        "alias": "Malygina_Oksana_2",
+        "sex": 2,
+        "url": "/doctor/Malygina_Oksana_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 161,
+                "name": "Фтизиатр",
+                "alias": "ftiziatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Славянское шоссе, д. 0/1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Фтизиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93140": {
+                "active": true,
+                "selected": true,
+                "id": 93140,
+                "name": "Республиканская клиническая  туберкулезная больница",
+                "alias": "respublikanskaya_klinicheskaya_tuberkuleznaya_bolnitsa",
+                "url": "/clinic/respublikanskaya_klinicheskaya_tuberkuleznaya_bolnitsa",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.886961,
+                    53.224974
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Славянское шоссе",
+                    "house": "д. 0/1",
+                    "fullAddress": "г. Ижевск, Славянское шоссе, д. 0/1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 5,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 555902,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Целищева Людмила Ивановна",
+        "surname": "",
+        "alias": "Tselishteva_Lyudmila",
+        "sex": 2,
+        "url": "/doctor/Tselishteva_Lyudmila",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 161,
+                "name": "Фтизиатр",
+                "alias": "ftiziatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Славянское шоссе, д. 0/1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Фтизиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93140": {
+                "active": true,
+                "selected": true,
+                "id": 93140,
+                "name": "Республиканская клиническая  туберкулезная больница",
+                "alias": "respublikanskaya_klinicheskaya_tuberkuleznaya_bolnitsa",
+                "url": "/clinic/respublikanskaya_klinicheskaya_tuberkuleznaya_bolnitsa",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.886961,
+                    53.224974
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Славянское шоссе",
+                    "house": "д. 0/1",
+                    "fullAddress": "г. Ижевск, Славянское шоссе, д. 0/1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 5,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 555908,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Антропова Елена Константиновна",
+        "surname": "",
+        "alias": "Antropova_Elena_4",
+        "sex": 2,
+        "url": "/doctor/Antropova_Elena_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/555908_20201019174919.162x162.jpg?1669430903",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/555908_20201019174919.640x400.jpg?1669430903",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 27",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93400": {
+                "active": true,
+                "selected": true,
+                "id": 93400,
+                "name": "Стоматология Джаз на Ленина",
+                "alias": "stomatologiya_dzhaz_na_lenina",
+                "url": "/clinic/stomatologiya_dzhaz_na_lenina",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845426,
+                    53.224543
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 27",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 27"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 24,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 556652,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Чернов Александр Владимирович",
+        "surname": "",
+        "alias": "Chernov_Aleksandr_11",
+        "sex": 1,
+        "url": "/doctor/Chernov_Aleksandr_11",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/556652_20201019191229.162x162.jpg?1669430912",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/556652_20201019191229.640x400.jpg?1669430912",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 131,
+                "name": "Стоматолог-имплантолог",
+                "alias": "stomatolog-implantlog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            },
+            {
+                "id": 127,
+                "name": "Стоматолог-хирург",
+                "alias": "stomatolog-hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 27",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед, Стоматолог-хирург, Стоматолог-имплантолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93400": {
+                "active": true,
+                "selected": true,
+                "id": 93400,
+                "name": "Стоматология Джаз на Ленина",
+                "alias": "stomatologiya_dzhaz_na_lenina",
+                "url": "/clinic/stomatologiya_dzhaz_na_lenina",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845426,
+                    53.224543
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 27",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 27"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 15,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 556660,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Грахов Евгений Владимирович",
+        "surname": "",
+        "alias": "Grahov_Evgeniy",
+        "sex": 1,
+        "url": "/doctor/Grahov_Evgeniy",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/556660_20201019191932.162x162.jpg?1669430912",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/556660_20201019191932.640x400.jpg?1669430912",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 27",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93400": {
+                "active": true,
+                "selected": true,
+                "id": 93400,
+                "name": "Стоматология Джаз на Ленина",
+                "alias": "stomatologiya_dzhaz_na_lenina",
+                "url": "/clinic/stomatologiya_dzhaz_na_lenina",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845426,
+                    53.224543
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 27",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 27"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 23,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 556674,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Евдокимова Наталья Александровна",
+        "surname": "",
+        "alias": "Evdokimova_Natalya",
+        "sex": 2,
+        "url": "/doctor/Evdokimova_Natalya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/556674_20201019192914.162x162.jpg?1669430912",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/556674_20201019192914.640x400.jpg?1669430912",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 27",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93400": {
+                "active": true,
+                "selected": true,
+                "id": 93400,
+                "name": "Стоматология Джаз на Ленина",
+                "alias": "stomatologiya_dzhaz_na_lenina",
+                "url": "/clinic/stomatologiya_dzhaz_na_lenina",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845426,
+                    53.224543
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 27",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 27"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 16,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 556686,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Овчинникова Татьяна Владимировна",
+        "surname": "",
+        "alias": "Ovchinnikova_Tatyana_10",
+        "sex": 2,
+        "url": "/doctor/Ovchinnikova_Tatyana_10",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/556686_20201019193623.162x162.jpg?1669430912",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/556686_20201019193623.640x400.jpg?1669430912",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 27",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93400": {
+                "active": true,
+                "selected": true,
+                "id": 93400,
+                "name": "Стоматология Джаз на Ленина",
+                "alias": "stomatologiya_dzhaz_na_lenina",
+                "url": "/clinic/stomatologiya_dzhaz_na_lenina",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845426,
+                    53.224543
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 27",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 27"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 24,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 556690,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Филиппова Мария Григорьевна",
+        "surname": "",
+        "alias": "Filippova_Mariya_4",
+        "sex": 2,
+        "url": "/doctor/Filippova_Mariya_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/556690_20201019194743.162x162.jpg?1669430912",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/556690_20201019194743.640x400.jpg?1669430912",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 125,
+                "name": "Стоматолог-ортодонт",
+                "alias": "stomatolog-ortodont"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 27",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортодонт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93400": {
+                "active": true,
+                "selected": true,
+                "id": 93400,
+                "name": "Стоматология Джаз на Ленина",
+                "alias": "stomatologiya_dzhaz_na_lenina",
+                "url": "/clinic/stomatologiya_dzhaz_na_lenina",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845426,
+                    53.224543
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 27",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 27"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 14,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 556744,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Бочкарева Ирина Викторовна",
+        "surname": "",
+        "alias": "Bochkareva_Irina_2",
+        "sex": 2,
+        "url": "/doctor/Bochkareva_Irina_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/556744_20201019201243.162x162.jpg?1669430913",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/556744_20201019201243.640x400.jpg?1669430913",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 27",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93400": {
+                "active": true,
+                "selected": true,
+                "id": 93400,
+                "name": "Стоматология Джаз на Ленина",
+                "alias": "stomatologiya_dzhaz_na_lenina",
+                "url": "/clinic/stomatologiya_dzhaz_na_lenina",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845426,
+                    53.224543
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 27",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 27"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 13,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 556756,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Фельде Мария Александровна",
+        "surname": "",
+        "alias": "Felde_Mariya",
+        "sex": 2,
+        "url": "/doctor/Felde_Mariya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/556756_20201019202249.162x162.jpg?1669430913",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/556756_20201019202249.640x400.jpg?1669430913",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 125,
+                "name": "Стоматолог-ортодонт",
+                "alias": "stomatolog-ortodont"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 27",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортодонт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93400": {
+                "active": true,
+                "selected": true,
+                "id": 93400,
+                "name": "Стоматология Джаз на Ленина",
+                "alias": "stomatologiya_dzhaz_na_lenina",
+                "url": "/clinic/stomatologiya_dzhaz_na_lenina",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.845426,
+                    53.224543
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 27",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 27"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 10,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

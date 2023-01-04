@@ -1,0 +1,1126 @@
+{"doctors": [
+    {
+        "id": 607446,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Шубникова Елена Сергеевна",
+        "surname": "",
+        "alias": "Shubnikova_Elena",
+        "sex": 2,
+        "url": "/doctor/Shubnikova_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 16,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 607452,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Хлобыстова Ольга Викторовна",
+        "surname": "",
+        "alias": "Hlobystova_Olga",
+        "sex": 2,
+        "url": "/doctor/Hlobystova_Olga",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 107,
+                "name": "Анестезиолог",
+                "alias": "anesteziolog"
+            },
+            {
+                "id": 204,
+                "name": "Реаниматолог",
+                "alias": "reanimatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Анестезиолог, Реаниматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 3,
+        "categoryTitle": "Врач второй категории",
+        "experience": 11,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 607454,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Зимина Татьяна Георгиевна",
+        "surname": "",
+        "alias": "Zimina_Tatyana_4",
+        "sex": 2,
+        "url": "/doctor/Zimina_Tatyana_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/607454_20201206215425.162x162.jpg?1669431499",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/607454_20201206215425.640x400.jpg?1669431499",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. К. Либкнехта, д. 65",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98808": {
+                "active": true,
+                "selected": true,
+                "id": 98808,
+                "name": "Стоматологическая поликлиника Казмаска",
+                "alias": "stomatologicheskaya_poliklinika_kazmaska",
+                "url": "/clinic/stomatologicheskaya_poliklinika_kazmaska",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.840301,
+                    53.239149
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. К. Либкнехта",
+                    "house": "д. 65",
+                    "fullAddress": "г. Ижевск, ул. К. Либкнехта, д. 65"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 0,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 607460,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Федотов Василий Николаевич",
+        "surname": "",
+        "alias": "Fedotov_Vasiliy_2",
+        "sex": 1,
+        "url": "/doctor/Fedotov_Vasiliy_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 252,
+                "name": "Абдоминальный хирург",
+                "alias": "abdominalnii-hirurg"
+            },
+            {
+                "id": 95,
+                "name": "Хирург",
+                "alias": "hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Хирург, Абдоминальный хирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 13,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 607466,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Александров Сергей Федотович",
+        "surname": "",
+        "alias": "Aleksandrov_Sergey_10",
+        "sex": 1,
+        "url": "/doctor/Aleksandrov_Sergey_10",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 107,
+                "name": "Анестезиолог",
+                "alias": "anesteziolog"
+            },
+            {
+                "id": 204,
+                "name": "Реаниматолог",
+                "alias": "reanimatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Анестезиолог, Реаниматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 13,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 607470,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Фалалеева Екатерина Аркадьевна",
+        "surname": "",
+        "alias": "Falaleeva_Ekaterina",
+        "sex": 2,
+        "url": "/doctor/Falaleeva_Ekaterina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 13,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 607478,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Чалгубаев Эдгар Кабирович",
+        "surname": "",
+        "alias": "Chalgubaev_Edgar",
+        "sex": 1,
+        "url": "/doctor/Chalgubaev_Edgar",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/607478_20201212224049.162x162.jpg?1669431501",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/607478_20201212224049.640x400.jpg?1669431501",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 107,
+                "name": "Анестезиолог",
+                "alias": "anesteziolog"
+            },
+            {
+                "id": 250,
+                "name": "Анестезиолог-реаниматолог",
+                "alias": "anesteziolog-reanimatolog"
+            },
+            {
+                "id": 204,
+                "name": "Реаниматолог",
+                "alias": "reanimatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Анестезиолог, Реаниматолог, Анестезиолог-реаниматолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Анестезиолог, Реаниматолог, Анестезиолог-реаниматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "99778": {
+                "active": false,
+                "selected": false,
+                "id": 99778,
+                "name": "MMS Медицинские сервисные решения",
+                "alias": "mms_meditsinskie_servisnye_resheniya",
+                "url": "/clinic/mms_meditsinskie_servisnye_resheniya",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 13,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 607482,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Данилов Олег Владимирович",
+        "surname": "",
+        "alias": "Danilov_Oleg_2",
+        "sex": 1,
+        "url": "/doctor/Danilov_Oleg_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/607482_20201206220134.162x162.jpg?1669431501",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/607482_20201206220134.640x400.jpg?1669431501",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. К. Либкнехта, д. 65",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98808": {
+                "active": true,
+                "selected": true,
+                "id": 98808,
+                "name": "Стоматологическая поликлиника Казмаска",
+                "alias": "stomatologicheskaya_poliklinika_kazmaska",
+                "url": "/clinic/stomatologicheskaya_poliklinika_kazmaska",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.840301,
+                    53.239149
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. К. Либкнехта",
+                    "house": "д. 65",
+                    "fullAddress": "г. Ижевск, ул. К. Либкнехта, д. 65"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 0,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 607484,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Абашева Екатерина Александровна",
+        "surname": "",
+        "alias": "Abasheva_Ekaterina",
+        "sex": 2,
+        "url": "/doctor/Abasheva_Ekaterina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 67,
+                "name": "Акушер",
+                "alias": "akusher"
+            },
+            {
+                "id": 72,
+                "name": "Гинеколог",
+                "alias": "ginekolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Акушер, Гинеколог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 10,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 607488,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Гарипов Азат Мансурович",
+        "surname": "",
+        "alias": "Garipov_Azat",
+        "sex": 1,
+        "url": "/doctor/Garipov_Azat",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 75,
+                "name": "Кардиолог",
+                "alias": "kardiolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Труда, д. 1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Кардиолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "97812": {
+                "active": true,
+                "selected": true,
+                "id": 97812,
+                "name": "Городская больница №6 на Труда",
+                "alias": "gorodskaya_bolnitsa_6_na_truda",
+                "url": "/clinic/gorodskaya_bolnitsa_6_na_truda",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863178,
+                    53.293488
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Труда",
+                    "house": "д. 1",
+                    "fullAddress": "г. Ижевск, ул. Труда, д. 1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 10,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

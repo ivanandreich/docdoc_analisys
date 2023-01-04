@@ -1,0 +1,1141 @@
+{"doctors": [
+    {
+        "id": 581406,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Третьякова Ольга Владимировна",
+        "surname": "",
+        "alias": "Tretyakova_Olga_7",
+        "sex": 2,
+        "url": "/doctor/Tretyakova_Olga_7",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581406_20201115012137.162x162.jpg?1669431185",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581406_20201115012137.640x400.jpg?1669431185",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.5
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95878": {
+                "active": true,
+                "selected": true,
+                "id": 95878,
+                "name": "Стоматология Ресто на Удмуртской",
+                "alias": "stomatologiya_resto_na_udmurtskoy",
+                "url": "/clinic/stomatologiya_resto_na_udmurtskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.861244,
+                    53.221758
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Удмуртская",
+                    "house": "д. 304-Н",
+                    "fullAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 13,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 581408,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Стародубцева Ольга Борисовна",
+        "surname": "",
+        "alias": "Starodubtseva_Olga_4",
+        "sex": 2,
+        "url": "/doctor/Starodubtseva_Olga_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581408_20201115012621.162x162.jpg?1669431186",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581408_20201115012621.640x400.jpg?1669431186",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95878": {
+                "active": true,
+                "selected": true,
+                "id": 95878,
+                "name": "Стоматология Ресто на Удмуртской",
+                "alias": "stomatologiya_resto_na_udmurtskoy",
+                "url": "/clinic/stomatologiya_resto_na_udmurtskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.861244,
+                    53.221758
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Удмуртская",
+                    "house": "д. 304-Н",
+                    "fullAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 29,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 581412,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Баймурзин Дмитрий Юрьевич",
+        "surname": "",
+        "alias": "Baymurzin_Dmitriy",
+        "sex": 1,
+        "url": "/doctor/Baymurzin_Dmitriy",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581412_20201115013315.162x162.jpg?1669431186",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581412_20201115013315.640x400.jpg?1669431186",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 131,
+                "name": "Стоматолог-имплантолог",
+                "alias": "stomatolog-implantlog"
+            },
+            {
+                "id": 127,
+                "name": "Стоматолог-хирург",
+                "alias": "stomatolog-hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-хирург, Стоматолог-имплантолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95878": {
+                "active": true,
+                "selected": true,
+                "id": 95878,
+                "name": "Стоматология Ресто на Удмуртской",
+                "alias": "stomatologiya_resto_na_udmurtskoy",
+                "url": "/clinic/stomatologiya_resto_na_udmurtskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.861244,
+                    53.221758
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Удмуртская",
+                    "house": "д. 304-Н",
+                    "fullAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 11,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 581414,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Кутявин Роберт Викторович",
+        "surname": "",
+        "alias": "Kutyavin_Robert",
+        "sex": 1,
+        "url": "/doctor/Kutyavin_Robert",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581414_20201115013846.162x162.jpg?1669431186",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581414_20201115013846.640x400.jpg?1669431186",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.2
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95878": {
+                "active": true,
+                "selected": true,
+                "id": 95878,
+                "name": "Стоматология Ресто на Удмуртской",
+                "alias": "stomatologiya_resto_na_udmurtskoy",
+                "url": "/clinic/stomatologiya_resto_na_udmurtskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.861244,
+                    53.221758
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Удмуртская",
+                    "house": "д. 304-Н",
+                    "fullAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 11,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 581416,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Шемякина Ольга Васильевна",
+        "surname": "",
+        "alias": "Shemyakina_Olga_5",
+        "sex": 2,
+        "url": "/doctor/Shemyakina_Olga_5",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581416_20201115014609.162x162.jpg?1669431186",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581416_20201115014609.640x400.jpg?1669431186",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 129,
+                "name": "Стоматолог-гигиенист",
+                "alias": "stomatolog-gigienist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-гигиенист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95878": {
+                "active": true,
+                "selected": true,
+                "id": 95878,
+                "name": "Стоматология Ресто на Удмуртской",
+                "alias": "stomatologiya_resto_na_udmurtskoy",
+                "url": "/clinic/stomatologiya_resto_na_udmurtskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.861244,
+                    53.221758
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Удмуртская",
+                    "house": "д. 304-Н",
+                    "fullAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 20,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 581418,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Касаткин Антон Александрович",
+        "surname": "",
+        "alias": "Kasatkin_Anton",
+        "sex": 1,
+        "url": "/doctor/Kasatkin_Anton",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581418_20201115015107.162x162.jpg?1669431186",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581418_20201115015107.640x400.jpg?1669431186",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 9.1
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 107,
+                "name": "Анестезиолог",
+                "alias": "anesteziolog"
+            },
+            {
+                "id": 250,
+                "name": "Анестезиолог-реаниматолог",
+                "alias": "anesteziolog-reanimatolog"
+            },
+            {
+                "id": 204,
+                "name": "Реаниматолог",
+                "alias": "reanimatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Анестезиолог, Реаниматолог, Анестезиолог-реаниматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95878": {
+                "active": true,
+                "selected": true,
+                "id": 95878,
+                "name": "Стоматология Ресто на Удмуртской",
+                "alias": "stomatologiya_resto_na_udmurtskoy",
+                "url": "/clinic/stomatologiya_resto_na_udmurtskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.861244,
+                    53.221758
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Удмуртская",
+                    "house": "д. 304-Н",
+                    "fullAddress": "г. Ижевск, ул. Удмуртская, д. 304-Н"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 23,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 581420,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Шубович Инна Юрьевна",
+        "surname": "",
+        "alias": "Shubovich_Inna",
+        "sex": 2,
+        "url": "/doctor/Shubovich_Inna",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581420_20201115020651.162x162.jpg?1669431186",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581420_20201115020651.640x400.jpg?1669431186",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 73,
+                "name": "Дерматолог",
+                "alias": "dermatolog"
+            },
+            {
+                "id": 76,
+                "name": "Косметолог",
+                "alias": "kosmetolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Карла Маркса, д. 250",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Дерматолог, Косметолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96594": {
+                "active": true,
+                "selected": true,
+                "id": 96594,
+                "name": "Косметология Reforma",
+                "alias": "kosmetologiya_reforma",
+                "url": "/clinic/kosmetologiya_reforma",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.854448,
+                    53.206469
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Карла Маркса",
+                    "house": "д. 250",
+                    "fullAddress": "г. Ижевск, ул. Карла Маркса, д. 250"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 22,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 581422,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Парулава Нино Шилериевна",
+        "surname": "",
+        "alias": "Parulava_Nino",
+        "sex": 2,
+        "url": "/doctor/Parulava_Nino",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581422_20201115021543.162x162.jpg?1669431186",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581422_20201115021543.640x400.jpg?1669431186",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 67,
+                "name": "Акушер",
+                "alias": "akusher"
+            },
+            {
+                "id": 72,
+                "name": "Гинеколог",
+                "alias": "ginekolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Карла Маркса, д. 250",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Гинеколог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Пушкинская, д. 136",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Акушер, Гинеколог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96594": {
+                "active": true,
+                "selected": true,
+                "id": 96594,
+                "name": "Косметология Reforma",
+                "alias": "kosmetologiya_reforma",
+                "url": "/clinic/kosmetologiya_reforma",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.854448,
+                    53.206469
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Карла Маркса",
+                    "house": "д. 250",
+                    "fullAddress": "г. Ижевск, ул. Карла Маркса, д. 250"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "97062": {
+                "active": false,
+                "selected": false,
+                "id": 97062,
+                "name": "Городская больница №6 Женская консультация №1 на Пушкинской",
+                "alias": "gorodskaya_bolnitsa_6_zhenskaya_konsultatsiya_1_na_pushkinskoy",
+                "url": "/clinic/gorodskaya_bolnitsa_6_zhenskaya_konsultatsiya_1_na_pushkinskoy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.838578,
+                    53.218264
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Пушкинская",
+                    "house": "д. 136",
+                    "fullAddress": "г. Ижевск, ул. Пушкинская, д. 136"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 22,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 581424,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Носкова Наталья Борисовна",
+        "surname": "",
+        "alias": "Noskova_Natalya_4",
+        "sex": 2,
+        "url": "/doctor/Noskova_Natalya_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581424_20201115022348.162x162.jpg?1669431186",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581424_20201115022348.640x400.jpg?1669431186",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 76,
+                "name": "Косметолог",
+                "alias": "kosmetolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Карла Маркса, д. 250",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Косметолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96594": {
+                "active": true,
+                "selected": true,
+                "id": 96594,
+                "name": "Косметология Reforma",
+                "alias": "kosmetologiya_reforma",
+                "url": "/clinic/kosmetologiya_reforma",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.854448,
+                    53.206469
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Карла Маркса",
+                    "house": "д. 250",
+                    "fullAddress": "г. Ижевск, ул. Карла Маркса, д. 250"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 23,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 581426,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Аникина Ольга Владимировна",
+        "surname": "",
+        "alias": "Anikina_Olga_6",
+        "sex": 2,
+        "url": "/doctor/Anikina_Olga_6",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581426_20201115023033.162x162.jpg?1669431186",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581426_20201115023033.640x400.jpg?1669431186",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 73,
+                "name": "Дерматолог",
+                "alias": "dermatolog"
+            },
+            {
+                "id": 76,
+                "name": "Косметолог",
+                "alias": "kosmetolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Карла Маркса, д. 250",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Дерматолог, Косметолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96594": {
+                "active": true,
+                "selected": true,
+                "id": 96594,
+                "name": "Косметология Reforma",
+                "alias": "kosmetologiya_reforma",
+                "url": "/clinic/kosmetologiya_reforma",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.854448,
+                    53.206469
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Карла Маркса",
+                    "house": "д. 250",
+                    "fullAddress": "г. Ижевск, ул. Карла Маркса, д. 250"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 11,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

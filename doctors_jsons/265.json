@@ -1,0 +1,1057 @@
+{"doctors": [
+    {
+        "id": 580770,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Катютина Наталья Николаевна",
+        "surname": "",
+        "alias": "Katyutina_Natalya",
+        "sex": 2,
+        "url": "/doctor/Katyutina_Natalya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/580770_20201113175038.162x162.jpg?1669431177",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/580770_20201113175038.640x400.jpg?1669431177",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Бородина, д. 7",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95888": {
+                "active": true,
+                "selected": true,
+                "id": 95888,
+                "name": "Городская поликлиника № 1 Министерства здравоохранения УР",
+                "alias": "gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "url": "/clinic/gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850289,
+                    53.201977
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Бородина",
+                    "house": "д. 7",
+                    "fullAddress": "г. Ижевск, ул. Бородина, д. 7"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 40,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 580772,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Туманова Светлана Александровна",
+        "surname": "",
+        "alias": "Tumanova_Svetlana_2",
+        "sex": 2,
+        "url": "/doctor/Tumanova_Svetlana_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/580772_20201113180107.162x162.jpg?1669431177",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/580772_20201113180107.640x400.jpg?1669431177",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 157,
+                "name": "Рентгенолог",
+                "alias": "rentgenolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Бородина, д. 7",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Рентгенолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95888": {
+                "active": true,
+                "selected": true,
+                "id": 95888,
+                "name": "Городская поликлиника № 1 Министерства здравоохранения УР",
+                "alias": "gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "url": "/clinic/gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850289,
+                    53.201977
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Бородина",
+                    "house": "д. 7",
+                    "fullAddress": "г. Ижевск, ул. Бородина, д. 7"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 3,
+        "categoryTitle": "Врач второй категории",
+        "experience": 13,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 580774,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Холстинина Евгения Викторовна",
+        "surname": "",
+        "alias": "Holstinina_Evgeniya",
+        "sex": 2,
+        "url": "/doctor/Holstinina_Evgeniya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/580774_20201113181710.162x162.jpg?1669431177",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/580774_20201113181710.640x400.jpg?1669431177",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Бородина, д. 7",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95888": {
+                "active": true,
+                "selected": true,
+                "id": 95888,
+                "name": "Городская поликлиника № 1 Министерства здравоохранения УР",
+                "alias": "gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "url": "/clinic/gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850289,
+                    53.201977
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Бородина",
+                    "house": "д. 7",
+                    "fullAddress": "г. Ижевск, ул. Бородина, д. 7"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 3,
+        "categoryTitle": "Врач второй категории",
+        "experience": 12,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 580776,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Машковцева Галина Владимировна",
+        "surname": "",
+        "alias": "Mashkovtseva_Galina",
+        "sex": 2,
+        "url": "/doctor/Mashkovtseva_Galina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/580776_20201113182624.162x162.jpg?1669431177",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/580776_20201113182624.640x400.jpg?1669431177",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 100,
+                "name": "УЗИ-специалист",
+                "alias": "vrach_uzi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Бородина, д. 7",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "УЗИ-специалист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95888": {
+                "active": true,
+                "selected": true,
+                "id": 95888,
+                "name": "Городская поликлиника № 1 Министерства здравоохранения УР",
+                "alias": "gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "url": "/clinic/gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850289,
+                    53.201977
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Бородина",
+                    "house": "д. 7",
+                    "fullAddress": "г. Ижевск, ул. Бородина, д. 7"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 32,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 580782,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Валова Людмила Анатольевна",
+        "surname": "",
+        "alias": "Valova_Lyudmila",
+        "sex": 2,
+        "url": "/doctor/Valova_Lyudmila",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/580782_20201113184025.162x162.jpg?1669431177",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/580782_20201113184025.640x400.jpg?1669431177",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 177,
+                "name": "Врач ЛФК",
+                "alias": "vrach-lfk"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Бородина, д. 7",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач ЛФК"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95888": {
+                "active": true,
+                "selected": true,
+                "id": 95888,
+                "name": "Городская поликлиника № 1 Министерства здравоохранения УР",
+                "alias": "gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "url": "/clinic/gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850289,
+                    53.201977
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Бородина",
+                    "house": "д. 7",
+                    "fullAddress": "г. Ижевск, ул. Бородина, д. 7"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 42,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 580790,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Поморцева Ольга Семёновна",
+        "surname": "",
+        "alias": "Pomortseva_Olga",
+        "sex": 2,
+        "url": "/doctor/Pomortseva_Olga",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/580790_20201113184724.162x162.jpg?1669431178",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/580790_20201113184724.640x400.jpg?1669431178",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Бородина, д. 7",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95888": {
+                "active": true,
+                "selected": true,
+                "id": 95888,
+                "name": "Городская поликлиника № 1 Министерства здравоохранения УР",
+                "alias": "gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "url": "/clinic/gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850289,
+                    53.201977
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Бородина",
+                    "house": "д. 7",
+                    "fullAddress": "г. Ижевск, ул. Бородина, д. 7"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 38,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 580798,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Хворенков Кирилл Анатольевич",
+        "surname": "",
+        "alias": "Hvorenkov_Kirill",
+        "sex": 1,
+        "url": "/doctor/Hvorenkov_Kirill",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/580798_20201113185954.162x162.jpg?1669431178",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/580798_20201113185954.640x400.jpg?1669431178",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 252,
+                "name": "Абдоминальный хирург",
+                "alias": "abdominalnii-hirurg"
+            },
+            {
+                "id": 95,
+                "name": "Хирург",
+                "alias": "hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Бородина, д. 7",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Хирург, Абдоминальный хирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95888": {
+                "active": true,
+                "selected": true,
+                "id": 95888,
+                "name": "Городская поликлиника № 1 Министерства здравоохранения УР",
+                "alias": "gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "url": "/clinic/gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850289,
+                    53.201977
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Бородина",
+                    "house": "д. 7",
+                    "fullAddress": "г. Ижевск, ул. Бородина, д. 7"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 17,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 580806,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Шагалова Халима Халимовна",
+        "surname": "",
+        "alias": "Shagalova_Halima",
+        "sex": 2,
+        "url": "/doctor/Shagalova_Halima",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 101,
+                "name": "Массажист",
+                "alias": "massazhist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Бородина, д. 7",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Массажист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95888": {
+                "active": true,
+                "selected": true,
+                "id": 95888,
+                "name": "Городская поликлиника № 1 Министерства здравоохранения УР",
+                "alias": "gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "url": "/clinic/gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850289,
+                    53.201977
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Бородина",
+                    "house": "д. 7",
+                    "fullAddress": "г. Ижевск, ул. Бородина, д. 7"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 42,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 580810,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Якунина Ольга Юрьевна",
+        "surname": "",
+        "alias": "Yakunina_Olga_4",
+        "sex": 2,
+        "url": "/doctor/Yakunina_Olga_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 101,
+                "name": "Массажист",
+                "alias": "massazhist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Бородина, д. 7",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Массажист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95888": {
+                "active": true,
+                "selected": true,
+                "id": 95888,
+                "name": "Городская поликлиника № 1 Министерства здравоохранения УР",
+                "alias": "gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "url": "/clinic/gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850289,
+                    53.201977
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Бородина",
+                    "house": "д. 7",
+                    "fullAddress": "г. Ижевск, ул. Бородина, д. 7"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 31,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 580812,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Полякова Мария Владимировна",
+        "surname": "",
+        "alias": "Polyakova_Mariya_7",
+        "sex": 2,
+        "url": "/doctor/Polyakova_Mariya_7",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/580812_20201113191545.162x162.jpg?1669431179",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/580812_20201113191545.640x400.jpg?1669431179",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 112,
+                "name": "Инфекционист",
+                "alias": "infektsionist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Бородина, д. 7",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Инфекционист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95888": {
+                "active": true,
+                "selected": true,
+                "id": 95888,
+                "name": "Городская поликлиника № 1 Министерства здравоохранения УР",
+                "alias": "gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "url": "/clinic/gorodskaya_poliklinika_1_ministerstva_zdravoohraneniya_ur",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.850289,
+                    53.201977
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Бородина",
+                    "house": "д. 7",
+                    "fullAddress": "г. Ижевск, ул. Бородина, д. 7"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 14,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

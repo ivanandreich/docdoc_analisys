@@ -1,0 +1,1096 @@
+{"doctors": [
+    {
+        "id": 604406,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Яковлева Марина Николаевна",
+        "surname": "",
+        "alias": "Yakovleva_Marina_17",
+        "sex": 2,
+        "url": "/doctor/Yakovleva_Marina_17",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 22",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98518": {
+                "active": true,
+                "selected": true,
+                "id": 98518,
+                "name": "ГП №10 МЗ УР Стоматология на 50 лет Пионерии",
+                "alias": "gp_10_mz_ur_stomatologiya_na_50_let_pionerii",
+                "url": "/clinic/gp_10_mz_ur_stomatologiya_na_50_let_pionerii",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.860349,
+                    53.185996
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 50 лет Пионерии",
+                    "house": "д. 22",
+                    "fullAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 22"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 14,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 604436,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Юпатова Ольга Ивановна",
+        "surname": "",
+        "alias": "Yupatova_Olga",
+        "sex": 2,
+        "url": "/doctor/Yupatova_Olga",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 71,
+                "name": "Гастроэнтеролог",
+                "alias": "gastroenterolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 30 лет Победы, д. 86",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Гастроэнтеролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98516": {
+                "active": true,
+                "selected": true,
+                "id": 98516,
+                "name": "ГП №10 МЗ УР Поликлиника №3 - ул. 30 лет победы",
+                "alias": "gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.881065,
+                    53.183103
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 30 лет Победы",
+                    "house": "д. 86",
+                    "fullAddress": "г. Ижевск, ул. 30 лет Победы, д. 86"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 40,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 604454,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Резвых Павел Николаевич",
+        "surname": "",
+        "alias": "Rezvyh_Pavel",
+        "sex": 1,
+        "url": "/doctor/Rezvyh_Pavel",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 101,
+                "name": "Массажист",
+                "alias": "massazhist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 30 лет Победы, д. 86",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Массажист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98516": {
+                "active": true,
+                "selected": true,
+                "id": 98516,
+                "name": "ГП №10 МЗ УР Поликлиника №3 - ул. 30 лет победы",
+                "alias": "gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.881065,
+                    53.183103
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 30 лет Победы",
+                    "house": "д. 86",
+                    "fullAddress": "г. Ижевск, ул. 30 лет Победы, д. 86"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 17,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 604468,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Пушина Валентина Николаевна",
+        "surname": "",
+        "alias": "Pushina_Valentina",
+        "sex": 2,
+        "url": "/doctor/Pushina_Valentina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 101,
+                "name": "Массажист",
+                "alias": "massazhist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 30 лет Победы, д. 86",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Массажист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98516": {
+                "active": true,
+                "selected": true,
+                "id": 98516,
+                "name": "ГП №10 МЗ УР Поликлиника №3 - ул. 30 лет победы",
+                "alias": "gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.881065,
+                    53.183103
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 30 лет Победы",
+                    "house": "д. 86",
+                    "fullAddress": "г. Ижевск, ул. 30 лет Победы, д. 86"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 38,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 604478,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Лучкина Ирина Валерьевна",
+        "surname": "",
+        "alias": "Luchkina_Irina",
+        "sex": 2,
+        "url": "/doctor/Luchkina_Irina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 30 лет Победы, д. 86",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98516": {
+                "active": true,
+                "selected": true,
+                "id": 98516,
+                "name": "ГП №10 МЗ УР Поликлиника №3 - ул. 30 лет победы",
+                "alias": "gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.881065,
+                    53.183103
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 30 лет Победы",
+                    "house": "д. 86",
+                    "fullAddress": "г. Ижевск, ул. 30 лет Победы, д. 86"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 25,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 604486,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Хмелинина Людмила Ивановна",
+        "surname": "",
+        "alias": "Hmelinina_Lyudmila",
+        "sex": 2,
+        "url": "/doctor/Hmelinina_Lyudmila",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 30 лет Победы, д. 86",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98516": {
+                "active": true,
+                "selected": true,
+                "id": 98516,
+                "name": "ГП №10 МЗ УР Поликлиника №3 - ул. 30 лет победы",
+                "alias": "gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.881065,
+                    53.183103
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 30 лет Победы",
+                    "house": "д. 86",
+                    "fullAddress": "г. Ижевск, ул. 30 лет Победы, д. 86"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 23,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 604510,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Шинкарева Светлана Евгеньевна",
+        "surname": "",
+        "alias": "Shinkareva_Svetlana_4",
+        "sex": 2,
+        "url": "/doctor/Shinkareva_Svetlana_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 30 лет Победы, д. 86",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98516": {
+                "active": true,
+                "selected": true,
+                "id": 98516,
+                "name": "ГП №10 МЗ УР Поликлиника №3 - ул. 30 лет победы",
+                "alias": "gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.881065,
+                    53.183103
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 30 лет Победы",
+                    "house": "д. 86",
+                    "fullAddress": "г. Ижевск, ул. 30 лет Победы, д. 86"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 39,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 604522,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Шутова Ирина Валерьевна",
+        "surname": "",
+        "alias": "Shutova_Irina_4",
+        "sex": 2,
+        "url": "/doctor/Shutova_Irina_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 181,
+                "name": "Врач функциональной диагностики ",
+                "alias": "vrach-funkcionalnoy-diagnostiki"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач функциональной диагностики "
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. 30 лет Победы, д. 86",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач функциональной диагностики "
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98510": {
+                "active": true,
+                "selected": true,
+                "id": 98510,
+                "name": "ГП №10 МЗ УР Поликлиника №1 на 50 лет Пионерии",
+                "alias": "gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_1_na_50_let_pionerii",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.859424,
+                    53.182178
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 50 лет Пионерии",
+                    "house": "д. 39",
+                    "fullAddress": "г. Ижевск, ул. 50 лет Пионерии, д. 39"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "98516": {
+                "active": false,
+                "selected": false,
+                "id": 98516,
+                "name": "ГП №10 МЗ УР Поликлиника №3 - ул. 30 лет победы",
+                "alias": "gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.881065,
+                    53.183103
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 30 лет Победы",
+                    "house": "д. 86",
+                    "fullAddress": "г. Ижевск, ул. 30 лет Победы, д. 86"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 34,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 604544,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Якволева Елена Ивановна",
+        "surname": "",
+        "alias": "Yakvoleva_Elena",
+        "sex": 2,
+        "url": "/doctor/Yakvoleva_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 101,
+                "name": "Массажист",
+                "alias": "massazhist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 30 лет Победы, д. 86",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Массажист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98516": {
+                "active": true,
+                "selected": true,
+                "id": 98516,
+                "name": "ГП №10 МЗ УР Поликлиника №3 - ул. 30 лет победы",
+                "alias": "gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.881065,
+                    53.183103
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 30 лет Победы",
+                    "house": "д. 86",
+                    "fullAddress": "г. Ижевск, ул. 30 лет Победы, д. 86"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 29,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 604562,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Ходырева Нелли Владимировна",
+        "surname": "",
+        "alias": "Hodyreva_Nelli",
+        "sex": 2,
+        "url": "/doctor/Hodyreva_Nelli",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 177,
+                "name": "Врач ЛФК",
+                "alias": "vrach-lfk"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. 30 лет Победы, д. 86",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач ЛФК"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "98516": {
+                "active": true,
+                "selected": true,
+                "id": 98516,
+                "name": "ГП №10 МЗ УР Поликлиника №3 - ул. 30 лет победы",
+                "alias": "gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "url": "/clinic/gp_10_mz_ur_poliklinika_3_-_ul_30_let_pobedy",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.881065,
+                    53.183103
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 30 лет Победы",
+                    "house": "д. 86",
+                    "fullAddress": "г. Ижевск, ул. 30 лет Победы, д. 86"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 0,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

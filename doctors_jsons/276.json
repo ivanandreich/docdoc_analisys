@@ -1,0 +1,1120 @@
+{"doctors": [
+    {
+        "id": 581968,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Благодатских Ирина Петровна",
+        "surname": "",
+        "alias": "Blagodatskih_Irina",
+        "sex": 2,
+        "url": "/doctor/Blagodatskih_Irina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581968_20201115205102.162x162.jpg?1669431191",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581968_20201115205102.640x400.jpg?1669431191",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 101,
+                "name": "Массажист",
+                "alias": "massazhist"
+            }
+        ],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 36,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 581982,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Матвеева Валерия Вадимовна",
+        "surname": "",
+        "alias": "Matveeva_Valeriya_2",
+        "sex": 2,
+        "url": "/doctor/Matveeva_Valeriya_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/581982_20201115210030.162x162.jpg?1669431191",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/581982_20201115210030.640x400.jpg?1669431191",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.2
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 13,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 582004,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Коровкина Ольга Алексеевна",
+        "surname": "",
+        "alias": "Korovkina_Olga",
+        "sex": 2,
+        "url": "/doctor/Korovkina_Olga",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 24.414135036147,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 181,
+                "name": "Врач функциональной диагностики ",
+                "alias": "vrach-funkcionalnoy-diagnostiki"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Воткинское шоссе, д. 81",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач функциональной диагностики "
+            },
+            {
+                "clinicAddress": "г. Ижевск, Пушкинская, д. 222",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач функциональной диагностики "
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "96756": {
+                "active": true,
+                "selected": true,
+                "id": 96756,
+                "name": "Городская Клиническая Больница №7",
+                "alias": "gorodska_klinicheskaya_bolnitsa_7",
+                "url": "/clinic/gorodska_klinicheskaya_bolnitsa_7",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.899026,
+                    53.258221
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Воткинское шоссе",
+                    "house": "д. 81",
+                    "fullAddress": "г. Ижевск, Воткинское шоссе, д. 81"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "174058": {
+                "active": false,
+                "selected": false,
+                "id": 174058,
+                "name": "Реацентр Ижевск",
+                "alias": "reatsentr_izhevsk_1",
+                "url": "/clinic/reatsentr_izhevsk_1",
+                "phone": "8 (341) 231-02-80",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.855595,
+                    53.211418
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Пушкинская",
+                    "house": "д. 222",
+                    "fullAddress": "г. Ижевск, Пушкинская, д. 222"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 32,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 582016,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Черных Ольга Юрьевна",
+        "surname": "",
+        "alias": "Chernyh_Olga_8",
+        "sex": 2,
+        "url": "/doctor/Chernyh_Olga_8",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/582016_20201115211318.162x162.jpg?1669431191",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/582016_20201115211318.640x400.jpg?1669431191",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 103,
+                "name": "Логопед",
+                "alias": "logoped"
+            }
+        ],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 0,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 582050,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Аслямова Эльмира Баязитовна",
+        "surname": "",
+        "alias": "Aslyamova_Elmira",
+        "sex": 2,
+        "url": "/doctor/Aslyamova_Elmira",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/582050_20201115212937.162x162.jpg?1669431192",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/582050_20201115212937.640x400.jpg?1669431192",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 35.249054494283,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            },
+            {
+                "id": 151,
+                "name": "Рефлексотерапевт",
+                "alias": "refleksoterapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Пушкинская, д. 222",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Невролог, Рефлексотерапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "174058": {
+                "active": true,
+                "selected": true,
+                "id": 174058,
+                "name": "Реацентр Ижевск",
+                "alias": "reatsentr_izhevsk_1",
+                "url": "/clinic/reatsentr_izhevsk_1",
+                "phone": "8 (341) 231-02-80",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.855595,
+                    53.211418
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Пушкинская",
+                    "house": "д. 222",
+                    "fullAddress": "г. Ижевск, Пушкинская, д. 222"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 20,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 582190,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Ушакова Александра Владимировна",
+        "surname": "",
+        "alias": "Ushakova_Aleksandra_2",
+        "sex": 2,
+        "url": "/doctor/Ushakova_Aleksandra_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 2.7328645645739,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 102,
+                "name": "Пульмонолог",
+                "alias": "pulmonolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 79",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Пульмонолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, гор. Машиностроителей, д. 111",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Пульмонолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, Советская, д. 38",
+                "price": 1450,
+                "specialPrice": null,
+                "sectorNames": "Пульмонолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, 40 лет Победы, д. 122",
+                "price": 1300,
+                "specialPrice": 1105,
+                "sectorNames": "Пульмонолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95870": {
+                "active": true,
+                "selected": true,
+                "id": 95870,
+                "name": "Республиканская детская клиническая больница детская республиканская поликлиника",
+                "alias": "respublikanskaya_detskaya_klinicheskaya_bolnitsa_detskaya_respublikanskaya_poliklinika",
+                "url": "/clinic/respublikanskaya_detskaya_klinicheskaya_bolnitsa_detskaya_respublikanskaya_poliklinika",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.8477,
+                    53.245132
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 79",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 79"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            },
+            "99038": {
+                "active": false,
+                "selected": false,
+                "id": 99038,
+                "name": "Детский санаторий Малышок",
+                "alias": "detskiy_sanatoriy_malyshok_1",
+                "url": "/clinic/detskiy_sanatoriy_malyshok_1",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.835722,
+                    53.105741
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "гор. Машиностроителей",
+                    "house": "д. 111",
+                    "fullAddress": "г. Ижевск, гор. Машиностроителей, д. 111"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            },
+            "116998": {
+                "active": false,
+                "selected": false,
+                "id": 116998,
+                "name": "Детская клиника Доктор плюс на Советской",
+                "alias": "detskaya_klinika_doktor_plyus_na_sovetskoy",
+                "url": "/clinic/detskaya_klinika_doktor_plyus_na_sovetskoy",
+                "phone": "8 (341) 233-03-31",
+                "price": 1450,
+                "specialPrice": null,
+                "coords": [
+                    56.846834,
+                    53.231972
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Советская",
+                    "house": "д. 38",
+                    "fullAddress": "г. Ижевск, Советская, д. 38"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1450,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            },
+            "150655": {
+                "active": false,
+                "selected": false,
+                "id": 150655,
+                "name": "Юнимед на улице 40 лет Победы",
+                "alias": "yunimed_na_40_let_pobedy",
+                "url": "/clinic/yunimed_na_40_let_pobedy",
+                "phone": "8 (341) 233-10-69",
+                "price": 1300,
+                "specialPrice": 1105,
+                "coords": [
+                    56.844131,
+                    53.281343
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "40 лет Победы",
+                    "house": "д. 122",
+                    "fullAddress": "г. Ижевск, 40 лет Победы, д. 122"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1300,
+                        "specialPrice": 1105
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 20,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 582210,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Ананина Светлана Владимировна",
+        "surname": "",
+        "alias": "Ananina_Svetlana_3",
+        "sex": 2,
+        "url": "/doctor/Ananina_Svetlana_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.9
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 72,
+                "name": "Гинеколог",
+                "alias": "ginekolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 79",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Гинеколог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95870": {
+                "active": true,
+                "selected": true,
+                "id": 95870,
+                "name": "Республиканская детская клиническая больница детская республиканская поликлиника",
+                "alias": "respublikanskaya_detskaya_klinicheskaya_bolnitsa_detskaya_respublikanskaya_poliklinika",
+                "url": "/clinic/respublikanskaya_detskaya_klinicheskaya_bolnitsa_detskaya_respublikanskaya_poliklinika",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.8477,
+                    53.245132
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 79",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 79"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 27,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 582304,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Гордеев Степан Борисович",
+        "surname": "",
+        "alias": "Gordeev_Stepan_2",
+        "sex": 1,
+        "url": "/doctor/Gordeev_Stepan_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 77,
+                "name": "Лор (отоларинголог)",
+                "alias": "lor_otolaringolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 79",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Лор (отоларинголог)"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95870": {
+                "active": true,
+                "selected": true,
+                "id": 95870,
+                "name": "Республиканская детская клиническая больница детская республиканская поликлиника",
+                "alias": "respublikanskaya_detskaya_klinicheskaya_bolnitsa_detskaya_respublikanskaya_poliklinika",
+                "url": "/clinic/respublikanskaya_detskaya_klinicheskaya_bolnitsa_detskaya_respublikanskaya_poliklinika",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.8477,
+                    53.245132
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 79",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 79"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 25,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 582316,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Исхакова Лютция Ясовиевна",
+        "surname": "",
+        "alias": "Ishakova_Lyuttsiya",
+        "sex": 2,
+        "url": "/doctor/Ishakova_Lyuttsiya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 68,
+                "name": "Аллерголог",
+                "alias": "allergolog"
+            },
+            {
+                "id": 104,
+                "name": "Иммунолог",
+                "alias": "immunolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 79",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Аллерголог, Иммунолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95870": {
+                "active": true,
+                "selected": true,
+                "id": 95870,
+                "name": "Республиканская детская клиническая больница детская республиканская поликлиника",
+                "alias": "respublikanskaya_detskaya_klinicheskaya_bolnitsa_detskaya_respublikanskaya_poliklinika",
+                "url": "/clinic/respublikanskaya_detskaya_klinicheskaya_bolnitsa_detskaya_respublikanskaya_poliklinika",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.8477,
+                    53.245132
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 79",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 79"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 35,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 582348,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Кунаева Ольга Владимировна",
+        "surname": "",
+        "alias": "Kunaeva_Olga_2",
+        "sex": 2,
+        "url": "/doctor/Kunaeva_Olga_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 96,
+                "name": "Эндокринолог",
+                "alias": "endokrinolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д. 79",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Эндокринолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "95870": {
+                "active": true,
+                "selected": true,
+                "id": 95870,
+                "name": "Республиканская детская клиническая больница детская республиканская поликлиника",
+                "alias": "respublikanskaya_detskaya_klinicheskaya_bolnitsa_detskaya_respublikanskaya_poliklinika",
+                "url": "/clinic/respublikanskaya_detskaya_klinicheskaya_bolnitsa_detskaya_respublikanskaya_poliklinika",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.8477,
+                    53.245132
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д. 79",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д. 79"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 16,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

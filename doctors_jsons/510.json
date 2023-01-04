@@ -1,0 +1,983 @@
+{"doctors": [
+    {
+        "id": 1046386,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Спешилова Екатерина Александровна",
+        "surname": "",
+        "alias": "Speshilova_Ekaterina_3",
+        "sex": 2,
+        "url": "/doctor/Speshilova_Ekaterina_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1046386_20220315151229.162x162.jpg?1669437554",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1046386_20220315151229.640x400.jpg?1669437554",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 77,
+                "name": "Лор (отоларинголог)",
+                "alias": "lor_otolaringolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Шумайлова, д. 20а",
+                "price": 1400,
+                "specialPrice": null,
+                "sectorNames": "Лор (отоларинголог)"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "7273": {
+                "active": true,
+                "selected": true,
+                "id": 7273,
+                "name": "Медицея на Шумайлова",
+                "alias": "meditseya",
+                "url": "/clinic/meditseya",
+                "phone": "8 (341) 231-02-74",
+                "price": 1400,
+                "specialPrice": null,
+                "coords": [
+                    56.863272,
+                    53.198644
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Шумайлова",
+                    "house": "д. 20а",
+                    "fullAddress": "г. Ижевск, ул. Шумайлова, д. 20а"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1400,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "from": "1",
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 4,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": true,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "В стоимость первичного приема врача-лора (отоларинголога)\n гарантированно входит консультация, осмотр и назначение лечения.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1046878,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Веселова Наталия Геннадьевна ",
+        "surname": "",
+        "alias": "Veselova_Nataliya_3",
+        "sex": 2,
+        "url": "/doctor/Veselova_Nataliya_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 87,
+                "name": "Психолог",
+                "alias": "psiholog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Циолковского, д. 22/1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Психолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "49156": {
+                "active": true,
+                "selected": true,
+                "id": 49156,
+                "name": "Медицинский центр Диамед",
+                "alias": "meditsinskiy_tsentr_diamed",
+                "url": "/clinic/meditsinskiy_tsentr_diamed",
+                "phone": "8 (341) 233-11-53",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.837248,
+                    53.244207
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Циолковского",
+                    "house": "д. 22/1",
+                    "fullAddress": "г. Ижевск, Циолковского, д. 22/1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "from": "7",
+                    "to": "14"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 0,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1046882,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Митрюкова Елена Анатольевна",
+        "surname": "",
+        "alias": "Mitryukova_Elena",
+        "sex": 2,
+        "url": "/doctor/Mitryukova_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1046882_20220322141851.162x162.jpg?1669437562",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1046882_20220322141851.640x400.jpg?1669437562",
+        "tipMessage": "",
+        "departure": true,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 33.128481442616,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 96,
+                "name": "Эндокринолог",
+                "alias": "endokrinolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Циолковского, д. 22/1",
+                "price": 1000,
+                "specialPrice": 850,
+                "sectorNames": "Эндокринолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "49156": {
+                "active": true,
+                "selected": true,
+                "id": 49156,
+                "name": "Медицинский центр Диамед",
+                "alias": "meditsinskiy_tsentr_diamed",
+                "url": "/clinic/meditsinskiy_tsentr_diamed",
+                "phone": "8 (341) 233-11-53",
+                "price": 1000,
+                "specialPrice": 850,
+                "coords": [
+                    56.837248,
+                    53.244207
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Циолковского",
+                    "house": "д. 22/1",
+                    "fullAddress": "г. Ижевск, Циолковского, д. 22/1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1000,
+                        "specialPrice": 850
+                    },
+                    "departure": {
+                        "price": 3000,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 52,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1047272,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Карташева Лолита Фаязовна",
+        "surname": "",
+        "alias": "Kartasheva_Lolita",
+        "sex": 2,
+        "url": "/doctor/Kartasheva_Lolita",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1047272_20220325110256.162x162.jpg?1669437568",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1047272_20220325110256.640x400.jpg?1669437568",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 72,
+                "name": "Гинеколог",
+                "alias": "ginekolog"
+            }
+        ],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 9,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1047274,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Николаева Елена Георгиевна",
+        "surname": "",
+        "alias": "Nikolaeva_Elena_59",
+        "sex": 2,
+        "url": "/doctor/Nikolaeva_Elena_59",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1047274_20220325113102.162x162.jpg?1669437568",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1047274_20220325113102.640x400.jpg?1669437568",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.2
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 71,
+                "name": "Гастроэнтеролог",
+                "alias": "gastroenterolog"
+            }
+        ],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 9,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1049516,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Коробейникова Светлана Рудольфовна",
+        "surname": "",
+        "alias": "Korobeynikova_Svetlana_5",
+        "sex": 2,
+        "url": "/doctor/Korobeynikova_Svetlana_5",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1049516_20220607074936.162x162.jpg?1669437599",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1049516_20220607074936.640x400.jpg?1669437599",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 87,
+                "name": "Психолог",
+                "alias": "psiholog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Пушкинская, д. 268",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Психолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "49412": {
+                "active": true,
+                "selected": true,
+                "id": 49412,
+                "name": "Медицинский центр Ардэниум",
+                "alias": "meditsinskiy_tsentr_ardenium",
+                "url": "/clinic/meditsinskiy_tsentr_ardenium",
+                "phone": "8 (341) 233-10-84",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.862312,
+                    53.209424
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Пушкинская",
+                    "house": "д. 268",
+                    "fullAddress": "г. Ижевск, Пушкинская, д. 268"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 6,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1049992,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Куклин Дмитрий Николаевич ",
+        "surname": "",
+        "alias": "Kuklin_Dmitriy_3",
+        "sex": 1,
+        "url": "/doctor/Kuklin_Dmitriy_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 69,
+                "name": "Андролог",
+                "alias": "androlog"
+            },
+            {
+                "id": 93,
+                "name": "Уролог",
+                "alias": "urolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Шумайлова, д. 20а",
+                "price": 1400,
+                "specialPrice": 1330,
+                "sectorNames": "Андролог, Уролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "7273": {
+                "active": true,
+                "selected": true,
+                "id": 7273,
+                "name": "Медицея на Шумайлова",
+                "alias": "meditseya",
+                "url": "/clinic/meditseya",
+                "phone": "8 (341) 231-02-74",
+                "price": 1400,
+                "specialPrice": 1330,
+                "coords": [
+                    56.863272,
+                    53.198644
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Шумайлова",
+                    "house": "д. 20а",
+                    "fullAddress": "г. Ижевск, ул. Шумайлова, д. 20а"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1400,
+                        "specialPrice": 1330
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "from": "16",
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 17,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": true,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "В стоимость первичного приема врача-уролога\n гарантированно входит консультация, осмотр и назначение лечения.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1052976,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Глушак Сергей  Леонтьевич",
+        "surname": "",
+        "alias": "Glushak_Sergey_3",
+        "sex": 1,
+        "url": "/doctor/Glushak_Sergey_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1052976_20220624121849.162x162.jpg?1669437654",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1052976_20220624121849.640x400.jpg?1669437654",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 100,
+                "name": "УЗИ-специалист",
+                "alias": "vrach_uzi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Циолковского, д. 22/1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "УЗИ-специалист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "49156": {
+                "active": true,
+                "selected": true,
+                "id": 49156,
+                "name": "Медицинский центр Диамед",
+                "alias": "meditsinskiy_tsentr_diamed",
+                "url": "/clinic/meditsinskiy_tsentr_diamed",
+                "phone": "8 (341) 233-11-53",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.837248,
+                    53.244207
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Циолковского",
+                    "house": "д. 22/1",
+                    "fullAddress": "г. Ижевск, Циолковского, д. 22/1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 26,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1052980,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Бейлина Татьяна  Анатольевна",
+        "surname": "",
+        "alias": "Beylina_Tatyana_3",
+        "sex": 2,
+        "url": "/doctor/Beylina_Tatyana_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1052980_20220624122838.162x162.jpg?1669437654",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1052980_20220624122838.640x400.jpg?1669437654",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 181,
+                "name": "Врач функциональной диагностики ",
+                "alias": "vrach-funkcionalnoy-diagnostiki"
+            },
+            {
+                "id": 100,
+                "name": "УЗИ-специалист",
+                "alias": "vrach_uzi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Циолковского, д. 22/1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "УЗИ-специалист, Врач функциональной диагностики "
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "49156": {
+                "active": true,
+                "selected": true,
+                "id": 49156,
+                "name": "Медицинский центр Диамед",
+                "alias": "meditsinskiy_tsentr_diamed",
+                "url": "/clinic/meditsinskiy_tsentr_diamed",
+                "phone": "8 (341) 233-11-53",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.837248,
+                    53.244207
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Циолковского",
+                    "house": "д. 22/1",
+                    "fullAddress": "г. Ижевск, Циолковского, д. 22/1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 23,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1052982,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Юшкова Марина  Владимировна",
+        "surname": "",
+        "alias": "Yushkova_Marina_2",
+        "sex": 2,
+        "url": "/doctor/Yushkova_Marina_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1052982_20220624123307.162x162.jpg?1669437654",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1052982_20220624123307.640x400.jpg?1669437654",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 100,
+                "name": "УЗИ-специалист",
+                "alias": "vrach_uzi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Циолковского, д. 22/1",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "УЗИ-специалист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "49156": {
+                "active": true,
+                "selected": true,
+                "id": 49156,
+                "name": "Медицинский центр Диамед",
+                "alias": "meditsinskiy_tsentr_diamed",
+                "url": "/clinic/meditsinskiy_tsentr_diamed",
+                "phone": "8 (341) 233-11-53",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.837248,
+                    53.244207
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Циолковского",
+                    "house": "д. 22/1",
+                    "fullAddress": "г. Ижевск, Циолковского, д. 22/1"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 15,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

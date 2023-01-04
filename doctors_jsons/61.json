@@ -1,0 +1,1026 @@
+{"doctors": [
+    {
+        "id": 84162,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Попова Мария Анатольевна",
+        "surname": "",
+        "alias": "Popova_Mariya_2",
+        "sex": 2,
+        "url": "/doctor/Popova_Mariya_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/84162_20200204103605.162x162.jpg?1669505724",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/84162_20200204103605.640x400.jpg?1669505724",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Потрясающий",
+            "rating": 0,
+            "doctorRating": 9.3
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": {
+            "id": 2,
+            "title": "Профессор"
+        },
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, К. Маркса, д. 455",
+                "price": 1200,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "45912": {
+                "active": true,
+                "selected": true,
+                "id": 45912,
+                "name": "Клиника здоровой семьи АСПЭК",
+                "alias": "klinika_zdorovoy_semi_aspek",
+                "url": "/clinic/klinika_zdorovoy_semi_aspek",
+                "phone": "8 (495) 125-29-52",
+                "price": 1200,
+                "specialPrice": null,
+                "coords": [
+                    56.875645,
+                    53.20089
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "К. Маркса",
+                    "house": "д. 455",
+                    "fullAddress": "г. Ижевск, К. Маркса, д. 455"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 21,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 84164,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Мартюшев Павел Леонидович",
+        "surname": "",
+        "alias": "Martyushev_Pavel",
+        "sex": 1,
+        "url": "/doctor/Martyushev_Pavel",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/84164.162x162.jpg?1669505724",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/84164.640x400.jpg?1669505724",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 133,
+                "name": "Эндоскопист",
+                "alias": "endoskopist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, К. Маркса, д. 455",
+                "price": 2600,
+                "specialPrice": null,
+                "sectorNames": "Эндоскопист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "45912": {
+                "active": true,
+                "selected": true,
+                "id": 45912,
+                "name": "Клиника здоровой семьи АСПЭК",
+                "alias": "klinika_zdorovoy_semi_aspek",
+                "url": "/clinic/klinika_zdorovoy_semi_aspek",
+                "phone": "8 (495) 125-29-52",
+                "price": 2600,
+                "specialPrice": null,
+                "coords": [
+                    56.875645,
+                    53.20089
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "К. Маркса",
+                    "house": "д. 455",
+                    "fullAddress": "г. Ижевск, К. Маркса, д. 455"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 2600,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 34,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 84166,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Любимова Наталья Евгеньевна",
+        "surname": "",
+        "alias": "Lyubimova_Natalya",
+        "sex": 2,
+        "url": "/doctor/Lyubimova_Natalya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/84166_20200204103603.162x162.jpg?1669505724",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/84166_20200204103603.640x400.jpg?1669505724",
+        "tipMessage": "Всего записалось 20 человек",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Потрясающий",
+            "rating": 0,
+            "doctorRating": 9.3
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, К. Маркса, д. 455",
+                "price": 1200,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "45912": {
+                "active": true,
+                "selected": true,
+                "id": 45912,
+                "name": "Клиника здоровой семьи АСПЭК",
+                "alias": "klinika_zdorovoy_semi_aspek",
+                "url": "/clinic/klinika_zdorovoy_semi_aspek",
+                "phone": "8 (495) 125-29-52",
+                "price": 1200,
+                "specialPrice": null,
+                "coords": [
+                    56.875645,
+                    53.20089
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "К. Маркса",
+                    "house": "д. 455",
+                    "fullAddress": "г. Ижевск, К. Маркса, д. 455"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 33,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 84168,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Кузелин Владимир Анатольевич",
+        "surname": "",
+        "alias": "Kuzelin_Vladimir",
+        "sex": 1,
+        "url": "/doctor/Kuzelin_Vladimir",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/84168_20200204103543.162x162.jpg?1669505724",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/84168_20200204103543.640x400.jpg?1669505724",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.7
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 155,
+                "name": "Спортивный врач",
+                "alias": "sportivniy-vrach"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, К. Маркса, д. 453а",
+                "price": 1200,
+                "specialPrice": null,
+                "sectorNames": "Спортивный врач"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "45520": {
+                "active": true,
+                "selected": true,
+                "id": 45520,
+                "name": "Клинико-диагностический медицинский центр АСПЭК",
+                "alias": "kliniko-diagnosticheskiy_meditsinskiy_tsentr_aspek",
+                "url": "/clinic/kliniko-diagnosticheskiy_meditsinskiy_tsentr_aspek",
+                "phone": "8 (495) 125-29-52",
+                "price": 1200,
+                "specialPrice": null,
+                "coords": [
+                    56.875005,
+                    53.201914
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "К. Маркса",
+                    "house": "д. 453а",
+                    "fullAddress": "г. Ижевск, К. Маркса, д. 453а"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 8,
+        "degreeId": 1,
+        "degreeAbbreviation": "к.м.н.",
+        "degreeTitle": "Кандидат медицинских наук",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 84170,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Гуляева Ольга Аркадьевна ",
+        "surname": "",
+        "alias": "Gulyaeva_Olga_2",
+        "sex": 2,
+        "url": "/doctor/Gulyaeva_Olga_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/84170.162x162.jpg?1669505724",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/84170.640x400.jpg?1669505724",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [],
+        "tooltipPrices": [],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": [],
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 38,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 84172,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Мачихин Эдуард Рудольфович",
+        "surname": "",
+        "alias": "Machihin_Eduard",
+        "sex": 1,
+        "url": "/doctor/Machihin_Eduard",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/84172.162x162.jpg?1669505724",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/84172.640x400.jpg?1669505724",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 67,
+                "name": "Акушер",
+                "alias": "akusher"
+            },
+            {
+                "id": 72,
+                "name": "Гинеколог",
+                "alias": "ginekolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Орджоникидзе, д. 53",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Акушер, Гинеколог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "45898": {
+                "active": true,
+                "selected": true,
+                "id": 45898,
+                "name": "АСПЭК-Женское здоровье",
+                "alias": "zhenskoe_zdorove_1",
+                "url": "/clinic/zhenskoe_zdorove_1",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.843718,
+                    53.238287
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Орджоникидзе",
+                    "house": "д. 53",
+                    "fullAddress": "г. Ижевск, ул. Орджоникидзе, д. 53"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 35,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": true,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "В стоимость первичного приема врача-гинеколога\n гарантированно входит консультация, осмотр и назначение лечения.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 84174,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Долгова Ольга Николаевна",
+        "surname": "",
+        "alias": "Dolgova_Olga",
+        "sex": 2,
+        "url": "/doctor/Dolgova_Olga",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/84174_20200204104357.162x162.jpg?1669505724",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/84174_20200204104357.640x400.jpg?1669505724",
+        "tipMessage": "Всего записалось 22 человека",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 9
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 67,
+                "name": "Акушер",
+                "alias": "akusher"
+            },
+            {
+                "id": 72,
+                "name": "Гинеколог",
+                "alias": "ginekolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ленина, д.81",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Акушер, Гинеколог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "26245": {
+                "active": true,
+                "selected": true,
+                "id": 26245,
+                "name": "Семейная клиника Центр репродуктивного здоровья на Ленина",
+                "alias": "tsentr_reproduktivnogo_zdorovya",
+                "url": "/clinic/tsentr_reproduktivnogo_zdorovya",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.847996,
+                    53.249067
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ленина",
+                    "house": "д.81",
+                    "fullAddress": "г. Ижевск, ул. Ленина, д.81"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 19,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 84178,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Казанцева Ирина Валерьевна",
+        "surname": "",
+        "alias": "Kazantseva_Irina_2",
+        "sex": 2,
+        "url": "/doctor/Kazantseva_Irina_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/84178_20200204104359.162x162.jpg?1669505724",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/84178_20200204104359.640x400.jpg?1669505724",
+        "tipMessage": "Всего записалось 20 человек",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 9.1
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "4 отзывов",
+        "countReviews": 4,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 75,
+                "name": "Кардиолог",
+                "alias": "kardiolog"
+            },
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, К. Маркса, д. 453а",
+                "price": 1000,
+                "specialPrice": null,
+                "sectorNames": "Кардиолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, К. Маркса, д. 453а",
+                "price": 1200,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "45520": {
+                "active": true,
+                "selected": true,
+                "id": 45520,
+                "name": "Клинико-диагностический медицинский центр АСПЭК",
+                "alias": "kliniko-diagnosticheskiy_meditsinskiy_tsentr_aspek",
+                "url": "/clinic/kliniko-diagnosticheskiy_meditsinskiy_tsentr_aspek",
+                "phone": "8 (495) 125-29-52",
+                "price": 1000,
+                "specialPrice": null,
+                "coords": [
+                    56.875005,
+                    53.201914
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "К. Маркса",
+                    "house": "д. 453а",
+                    "fullAddress": "г. Ижевск, К. Маркса, д. 453а"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1000,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 17,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 84184,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Шафигуллина Валентина Борисовна",
+        "surname": "",
+        "alias": "Shafigullina_Valentina",
+        "sex": 2,
+        "url": "/doctor/Shafigullina_Valentina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/84184_20200204105933.162x162.jpg?1669505724",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/84184_20200204105933.640x400.jpg?1669505724",
+        "tipMessage": "Всего записалось 14 человек",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 85,
+                "name": "Педиатр",
+                "alias": "pediatr"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, К. Маркса, д. 453",
+                "price": 900,
+                "specialPrice": null,
+                "sectorNames": "Педиатр"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "45924": {
+                "active": true,
+                "selected": true,
+                "id": 45924,
+                "name": "АСПЭК-Детский медицинский центр Здоровый малыш",
+                "alias": "aspek-detskiy_meditsinskiy_tsentr_zdorovyy_malysh",
+                "url": "/clinic/aspek-detskiy_meditsinskiy_tsentr_zdorovyy_malysh",
+                "phone": "8 (495) 125-29-52",
+                "price": 900,
+                "specialPrice": null,
+                "coords": [
+                    56.875005,
+                    53.201914
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "К. Маркса",
+                    "house": "д. 453",
+                    "fullAddress": "г. Ижевск, К. Маркса, д. 453"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 900,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "18"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 25,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 84580,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Широбокова Наталья Вячеславовна",
+        "surname": "",
+        "alias": "Shirobokova_Natalya",
+        "sex": 2,
+        "url": "/doctor/Shirobokova_Natalya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/84580.162x162.jpg?1669505726",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/84580.640x400.jpg?1669505726",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Бородина, д. 7",
+                "price": 750,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "7357": {
+                "active": true,
+                "selected": true,
+                "id": 7357,
+                "name": "Аксион",
+                "alias": "aksion",
+                "url": "/clinic/aksion",
+                "phone": "8 (495) 125-29-52",
+                "price": 750,
+                "specialPrice": null,
+                "coords": [
+                    56.850329,
+                    53.202363
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Бородина",
+                    "house": "д. 7",
+                    "fullAddress": "г. Ижевск, ул. Бородина, д. 7"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 750,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 27,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

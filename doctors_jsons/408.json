@@ -1,0 +1,1111 @@
+{"doctors": [
+    {
+        "id": 597466,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Юдина Анастасия Андреевна",
+        "surname": "",
+        "alias": "Yudina_Anastasiya_3",
+        "sex": 2,
+        "url": "/doctor/Yudina_Anastasiya_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 83,
+                "name": "Ортопед",
+                "alias": "ortoped"
+            },
+            {
+                "id": 185,
+                "name": "Травматолог",
+                "alias": "travmatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Воткинское шоссе, д. 57",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Ортопед, Травматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93528": {
+                "active": true,
+                "selected": true,
+                "id": 93528,
+                "name": "Первая республиканская клиническая больница Министерства здравоохранения Удмуртской Республики (РКБ)",
+                "alias": "pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "url": "/clinic/pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.901774,
+                    53.25778
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Воткинское шоссе",
+                    "house": "д. 57",
+                    "fullAddress": "г. Ижевск, Воткинское шоссе, д. 57"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 6,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 597474,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Васильев Денис Алексеевич",
+        "surname": "",
+        "alias": "Vasilev_Denis_4",
+        "sex": 1,
+        "url": "/doctor/Vasilev_Denis_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 107,
+                "name": "Анестезиолог",
+                "alias": "anesteziolog"
+            },
+            {
+                "id": 250,
+                "name": "Анестезиолог-реаниматолог",
+                "alias": "anesteziolog-reanimatolog"
+            },
+            {
+                "id": 204,
+                "name": "Реаниматолог",
+                "alias": "reanimatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Воткинское шоссе, д. 57",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Анестезиолог, Реаниматолог, Анестезиолог-реаниматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93528": {
+                "active": true,
+                "selected": true,
+                "id": 93528,
+                "name": "Первая республиканская клиническая больница Министерства здравоохранения Удмуртской Республики (РКБ)",
+                "alias": "pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "url": "/clinic/pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.901774,
+                    53.25778
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Воткинское шоссе",
+                    "house": "д. 57",
+                    "fullAddress": "г. Ижевск, Воткинское шоссе, д. 57"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 6,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 597480,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Яковлева Ольга Сергеевна",
+        "surname": "",
+        "alias": "Yakovleva_Olga_37",
+        "sex": 2,
+        "url": "/doctor/Yakovleva_Olga_37",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 181,
+                "name": "Врач функциональной диагностики ",
+                "alias": "vrach-funkcionalnoy-diagnostiki"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Воткинское шоссе, д. 57",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач функциональной диагностики "
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93528": {
+                "active": true,
+                "selected": true,
+                "id": 93528,
+                "name": "Первая республиканская клиническая больница Министерства здравоохранения Удмуртской Республики (РКБ)",
+                "alias": "pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "url": "/clinic/pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.901774,
+                    53.25778
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Воткинское шоссе",
+                    "house": "д. 57",
+                    "fullAddress": "г. Ижевск, Воткинское шоссе, д. 57"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 6,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 597482,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Мамонов Александр Сергеевич",
+        "surname": "",
+        "alias": "Mamonov_Aleksandr_4",
+        "sex": 1,
+        "url": "/doctor/Mamonov_Aleksandr_4",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/597482_20201129145848.162x162.jpg?1669431391",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/597482_20201129145848.640x400.jpg?1669431391",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.2
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 157,
+                "name": "Рентгенолог",
+                "alias": "rentgenolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Совхозная, д. 10",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Рентгенолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, Удмуртская, д. 253б",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Рентгенолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "71426": {
+                "active": true,
+                "selected": true,
+                "id": 71426,
+                "name": "Палладиум",
+                "alias": "palladium",
+                "url": "/clinic/palladium",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.849482,
+                    53.253729
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Совхозная",
+                    "house": "д. 10",
+                    "fullAddress": "г. Ижевск, Совхозная, д. 10"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "116988": {
+                "active": false,
+                "selected": false,
+                "id": 116988,
+                "name": "Доктор плюс на Удмуртской",
+                "alias": "doktor_plyus_na_udmurtskoy_1",
+                "url": "/clinic/doktor_plyus_na_udmurtskoy_1",
+                "phone": "8 (341) 233-08-40",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.859596,
+                    53.220042
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Удмуртская",
+                    "house": "д. 253б",
+                    "fullAddress": "г. Ижевск, Удмуртская, д. 253б"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 14,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 597484,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Иванова Диана Тагировна",
+        "surname": "",
+        "alias": "Ivanova_Diana_3",
+        "sex": 2,
+        "url": "/doctor/Ivanova_Diana_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 106,
+                "name": "Гематолог",
+                "alias": "gematolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Воткинское шоссе, д. 57",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Гематолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93528": {
+                "active": true,
+                "selected": true,
+                "id": 93528,
+                "name": "Первая республиканская клиническая больница Министерства здравоохранения Удмуртской Республики (РКБ)",
+                "alias": "pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "url": "/clinic/pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.901774,
+                    53.25778
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Воткинское шоссе",
+                    "house": "д. 57",
+                    "fullAddress": "г. Ижевск, Воткинское шоссе, д. 57"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 6,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 597486,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Ашихмин Андрей Константинович",
+        "surname": "",
+        "alias": "Ashihmin_Andrey_3",
+        "sex": 1,
+        "url": "/doctor/Ashihmin_Andrey_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.4
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 177,
+                "name": "Врач ЛФК",
+                "alias": "vrach-lfk"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Воткинское шоссе, д. 57",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач ЛФК"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93528": {
+                "active": true,
+                "selected": true,
+                "id": 93528,
+                "name": "Первая республиканская клиническая больница Министерства здравоохранения Удмуртской Республики (РКБ)",
+                "alias": "pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "url": "/clinic/pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.901774,
+                    53.25778
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Воткинское шоссе",
+                    "house": "д. 57",
+                    "fullAddress": "г. Ижевск, Воткинское шоссе, д. 57"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 6,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 597490,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Шамшурина Евгения Николаевна",
+        "surname": "",
+        "alias": "Shamshurina_Evgeniya",
+        "sex": 2,
+        "url": "/doctor/Shamshurina_Evgeniya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Удовлетворительный",
+            "rating": 0,
+            "doctorRating": 3.2
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 100,
+                "name": "УЗИ-специалист",
+                "alias": "vrach_uzi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Воткинское шоссе, д. 57",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "УЗИ-специалист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93528": {
+                "active": true,
+                "selected": true,
+                "id": 93528,
+                "name": "Первая республиканская клиническая больница Министерства здравоохранения Удмуртской Республики (РКБ)",
+                "alias": "pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "url": "/clinic/pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.901774,
+                    53.25778
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Воткинское шоссе",
+                    "house": "д. 57",
+                    "fullAddress": "г. Ижевск, Воткинское шоссе, д. 57"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 6,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 597500,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Упоров Владимир Валерьевич",
+        "surname": "",
+        "alias": "Uporov_Vladimir",
+        "sex": 1,
+        "url": "/doctor/Uporov_Vladimir",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/597500_20201129150613.162x162.jpg?1669431391",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/597500_20201129150613.640x400.jpg?1669431391",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Потрясающий",
+            "rating": 0,
+            "doctorRating": 9.2
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 157,
+                "name": "Рентгенолог",
+                "alias": "rentgenolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Совхозная, д. 10",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Рентгенолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "71426": {
+                "active": true,
+                "selected": true,
+                "id": 71426,
+                "name": "Палладиум",
+                "alias": "palladium",
+                "url": "/clinic/palladium",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.849482,
+                    53.253729
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Совхозная",
+                    "house": "д. 10",
+                    "fullAddress": "г. Ижевск, Совхозная, д. 10"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 25,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 597504,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Анастасин Станислав Сергеевич",
+        "surname": "",
+        "alias": "Anastasin_Stanislav",
+        "sex": 1,
+        "url": "/doctor/Anastasin_Stanislav",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/597504_20201129151132.162x162.jpg?1669431391",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/597504_20201129151132.640x400.jpg?1669431391",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.4
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 157,
+                "name": "Рентгенолог",
+                "alias": "rentgenolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Совхозная, д. 10",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Рентгенолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "71426": {
+                "active": true,
+                "selected": true,
+                "id": 71426,
+                "name": "Палладиум",
+                "alias": "palladium",
+                "url": "/clinic/palladium",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.849482,
+                    53.253729
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Совхозная",
+                    "house": "д. 10",
+                    "fullAddress": "г. Ижевск, Совхозная, д. 10"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 8,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 597512,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Казарин Даниил Дмитриевич",
+        "surname": "",
+        "alias": "Kazarin_Daniil",
+        "sex": 1,
+        "url": "/doctor/Kazarin_Daniil",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 71,
+                "name": "Гастроэнтеролог",
+                "alias": "gastroenterolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Воткинское шоссе, д. 57",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Гастроэнтеролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "93528": {
+                "active": true,
+                "selected": true,
+                "id": 93528,
+                "name": "Первая республиканская клиническая больница Министерства здравоохранения Удмуртской Республики (РКБ)",
+                "alias": "pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "url": "/clinic/pervaya_respublikanskaya_klinicheskaya_bolnitsa_ministerstva_zdravoohraneniya_udmurtskoy_respubliki_",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.901774,
+                    53.25778
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Воткинское шоссе",
+                    "house": "д. 57",
+                    "fullAddress": "г. Ижевск, Воткинское шоссе, д. 57"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 6,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

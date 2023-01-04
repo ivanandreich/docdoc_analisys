@@ -1,0 +1,1270 @@
+{"doctors": [
+    {
+        "id": 502320,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Рябова Ольга Шалвовна",
+        "surname": "",
+        "alias": "Ryabova_Olga_5",
+        "sex": 2,
+        "url": "/doctor/Ryabova_Olga_5",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/502320_20200903073251.162x162.jpg?1669430321",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/502320_20200903073251.640x400.jpg?1669430321",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ворошилова, д. 109-А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "89118": {
+                "active": true,
+                "selected": true,
+                "id": 89118,
+                "name": "Стоматологическая клиника Дом моделей",
+                "alias": "stomatologicheskaya_klinika_dom_modeley",
+                "url": "/clinic/stomatologicheskaya_klinika_dom_modeley",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.875822,
+                    53.2819
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ворошилова",
+                    "house": "д. 109-А",
+                    "fullAddress": "г. Ижевск, ул. Ворошилова, д. 109-А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 0,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 23,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 502322,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Загуменнов Максим Сергеевич",
+        "surname": "",
+        "alias": "Zagumennov_Maksim",
+        "sex": 1,
+        "url": "/doctor/Zagumennov_Maksim",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/502322_20200903073700.162x162.jpg?1669430321",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/502322_20200903073700.640x400.jpg?1669430321",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Достаточно хороший",
+            "rating": 0,
+            "doctorRating": 6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ворошилова, д. 109-А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "89118": {
+                "active": true,
+                "selected": true,
+                "id": 89118,
+                "name": "Стоматологическая клиника Дом моделей",
+                "alias": "stomatologicheskaya_klinika_dom_modeley",
+                "url": "/clinic/stomatologicheskaya_klinika_dom_modeley",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.875822,
+                    53.2819
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ворошилова",
+                    "house": "д. 109-А",
+                    "fullAddress": "г. Ижевск, ул. Ворошилова, д. 109-А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 15,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 502324,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Кутявин Александр Евгеньевич",
+        "surname": "",
+        "alias": "Kutyavin_Aleksandr",
+        "sex": 1,
+        "url": "/doctor/Kutyavin_Aleksandr",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/502324_20200903073946.162x162.jpg?1669430321",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/502324_20200903073946.640x400.jpg?1669430321",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ворошилова, д. 109-А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "89118": {
+                "active": true,
+                "selected": true,
+                "id": 89118,
+                "name": "Стоматологическая клиника Дом моделей",
+                "alias": "stomatologicheskaya_klinika_dom_modeley",
+                "url": "/clinic/stomatologicheskaya_klinika_dom_modeley",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.875822,
+                    53.2819
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ворошилова",
+                    "house": "д. 109-А",
+                    "fullAddress": "г. Ижевск, ул. Ворошилова, д. 109-А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 23,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 502326,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Гусоргина Светлана Евгеньевна",
+        "surname": "",
+        "alias": "Gusorgina_Svetlana",
+        "sex": 2,
+        "url": "/doctor/Gusorgina_Svetlana",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ворошилова, д. 109-А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "89118": {
+                "active": true,
+                "selected": true,
+                "id": 89118,
+                "name": "Стоматологическая клиника Дом моделей",
+                "alias": "stomatologicheskaya_klinika_dom_modeley",
+                "url": "/clinic/stomatologicheskaya_klinika_dom_modeley",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.875822,
+                    53.2819
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ворошилова",
+                    "house": "д. 109-А",
+                    "fullAddress": "г. Ижевск, ул. Ворошилова, д. 109-А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 23,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 502328,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Долганова Светлана Анатольевна",
+        "surname": "",
+        "alias": "Dolganova_Svetlana",
+        "sex": 2,
+        "url": "/doctor/Dolganova_Svetlana",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/502328_20200903074600.162x162.jpg?1669430321",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/502328_20200903074600.640x400.jpg?1669430321",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 119,
+                "name": "Стоматолог-терапевт",
+                "alias": "stomatolog-terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ворошилова, д. 109-А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "89118": {
+                "active": true,
+                "selected": true,
+                "id": 89118,
+                "name": "Стоматологическая клиника Дом моделей",
+                "alias": "stomatologicheskaya_klinika_dom_modeley",
+                "url": "/clinic/stomatologicheskaya_klinika_dom_modeley",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.875822,
+                    53.2819
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ворошилова",
+                    "house": "д. 109-А",
+                    "fullAddress": "г. Ижевск, ул. Ворошилова, д. 109-А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 24,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 502332,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Белых Елена Александровна",
+        "surname": "",
+        "alias": "Belyh_Elena",
+        "sex": 2,
+        "url": "/doctor/Belyh_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/502332_20200903074926.162x162.jpg?1669430321",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/502332_20200903074926.640x400.jpg?1669430321",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 119,
+                "name": "Стоматолог-терапевт",
+                "alias": "stomatolog-terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ворошилова, д. 109-А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "89118": {
+                "active": true,
+                "selected": true,
+                "id": 89118,
+                "name": "Стоматологическая клиника Дом моделей",
+                "alias": "stomatologicheskaya_klinika_dom_modeley",
+                "url": "/clinic/stomatologicheskaya_klinika_dom_modeley",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.875822,
+                    53.2819
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ворошилова",
+                    "house": "д. 109-А",
+                    "fullAddress": "г. Ижевск, ул. Ворошилова, д. 109-А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 14,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 502334,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Дербина Елена Борисовна",
+        "surname": "",
+        "alias": "Derbina_Elena",
+        "sex": 2,
+        "url": "/doctor/Derbina_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/502334_20200903075253.162x162.jpg?1669430321",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/502334_20200903075253.640x400.jpg?1669430321",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 119,
+                "name": "Стоматолог-терапевт",
+                "alias": "stomatolog-terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ворошилова, д. 109-А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "89118": {
+                "active": true,
+                "selected": true,
+                "id": 89118,
+                "name": "Стоматологическая клиника Дом моделей",
+                "alias": "stomatologicheskaya_klinika_dom_modeley",
+                "url": "/clinic/stomatologicheskaya_klinika_dom_modeley",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.875822,
+                    53.2819
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ворошилова",
+                    "house": "д. 109-А",
+                    "fullAddress": "г. Ижевск, ул. Ворошилова, д. 109-А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 27,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 502336,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Халитов Артур Аликович",
+        "surname": "",
+        "alias": "Halitov_Artur",
+        "sex": 1,
+        "url": "/doctor/Halitov_Artur",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 127,
+                "name": "Стоматолог-хирург",
+                "alias": "stomatolog-hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ворошилова, д. 109-А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-хирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "89118": {
+                "active": true,
+                "selected": true,
+                "id": 89118,
+                "name": "Стоматологическая клиника Дом моделей",
+                "alias": "stomatologicheskaya_klinika_dom_modeley",
+                "url": "/clinic/stomatologicheskaya_klinika_dom_modeley",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.875822,
+                    53.2819
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ворошилова",
+                    "house": "д. 109-А",
+                    "fullAddress": "г. Ижевск, ул. Ворошилова, д. 109-А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 4,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 502338,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Ахметзянов Раиль Феликсович",
+        "surname": "",
+        "alias": "Ahmetzyanov_Rail",
+        "sex": 1,
+        "url": "/doctor/Ahmetzyanov_Rail",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/502338_20200903075935.162x162.jpg?1669430321",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/502338_20200903075935.640x400.jpg?1669430321",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 127,
+                "name": "Стоматолог-хирург",
+                "alias": "stomatolog-hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Ворошилова, д. 109-А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-хирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "89118": {
+                "active": true,
+                "selected": true,
+                "id": 89118,
+                "name": "Стоматологическая клиника Дом моделей",
+                "alias": "stomatologicheskaya_klinika_dom_modeley",
+                "url": "/clinic/stomatologicheskaya_klinika_dom_modeley",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.875822,
+                    53.2819
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Ворошилова",
+                    "house": "д. 109-А",
+                    "fullAddress": "г. Ижевск, ул. Ворошилова, д. 109-А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 12,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 502342,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Бегишев Георгий Николаевич",
+        "surname": "",
+        "alias": "Begishev_Georgiy",
+        "sex": 1,
+        "url": "/doctor/Begishev_Georgiy",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/502342_20200903081657.162x162.jpg?1669430322",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/502342_20200903081657.640x400.jpg?1669430322",
+        "tipMessage": "Всего записалось 39 человек",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.9
+        },
+        "popularityRating": 120.90708110444,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "7 отзывов",
+        "countReviews": 7,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 81,
+                "name": "Невролог",
+                "alias": "nevrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Весенняя, д. 6",
+                "price": 700,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Зои Космодемьянской, д. 15",
+                "price": 700,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Петрова, д. 33Б",
+                "price": 700,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. 30 Лет Победы, д. 43",
+                "price": 700,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, Ленина, д. 146",
+                "price": 700,
+                "specialPrice": null,
+                "sectorNames": "Невролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "9871": {
+                "active": true,
+                "selected": true,
+                "id": 9871,
+                "name": "Академия здоровья на Весенней",
+                "alias": "akademiya_zdorovya",
+                "url": "/clinic/akademiya_zdorovya",
+                "phone": "8 (341) 231-02-87",
+                "price": 700,
+                "specialPrice": null,
+                "coords": [
+                    56.854512,
+                    53.306882
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Весенняя",
+                    "house": "д. 6",
+                    "fullAddress": "г. Ижевск, ул. Весенняя, д. 6"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 700,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "9873": {
+                "active": false,
+                "selected": false,
+                "id": 9873,
+                "name": "Академия здоровья на Зои Космодемьянской",
+                "alias": "akademiya_zdorovya_na_zoi_kosmodemyanskoy",
+                "url": "/clinic/akademiya_zdorovya_na_zoi_kosmodemyanskoy",
+                "phone": "8 (341) 233-10-32",
+                "price": 700,
+                "specialPrice": null,
+                "coords": [
+                    56.831965,
+                    53.152354
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Зои Космодемьянской",
+                    "house": "д. 15",
+                    "fullAddress": "г. Ижевск, ул. Зои Космодемьянской, д. 15"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 700,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "89126": {
+                "active": false,
+                "selected": false,
+                "id": 89126,
+                "name": "Академия здоровья на Петрова",
+                "alias": "akademiya_zdorovya_na_petrova",
+                "url": "/clinic/akademiya_zdorovya_na_petrova",
+                "phone": "8 (341) 233-10-29",
+                "price": 700,
+                "specialPrice": null,
+                "coords": [
+                    56.870061,
+                    53.290928
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Петрова",
+                    "house": "д. 33Б",
+                    "fullAddress": "г. Ижевск, ул. Петрова, д. 33Б"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 700,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "89128": {
+                "active": false,
+                "selected": false,
+                "id": 89128,
+                "name": "Академия здоровья на 30 Лет Победы",
+                "alias": "akademiya_zdorovya_na_30_let_pobedy",
+                "url": "/clinic/akademiya_zdorovya_na_30_let_pobedy",
+                "phone": "8 (341) 233-10-28",
+                "price": 700,
+                "specialPrice": null,
+                "coords": [
+                    56.872787,
+                    53.179349
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. 30 Лет Победы",
+                    "house": "д. 43",
+                    "fullAddress": "г. Ижевск, ул. 30 Лет Победы, д. 43"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 700,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "122956": {
+                "active": false,
+                "selected": false,
+                "id": 122956,
+                "name": "Академия здоровья на Ленина",
+                "alias": "akademiya_zdorovya_na_lenina",
+                "url": "/clinic/akademiya_zdorovya_na_lenina",
+                "phone": "8 (341) 233-08-84",
+                "price": 700,
+                "specialPrice": null,
+                "coords": [
+                    56.84322,
+                    53.291952
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Ленина",
+                    "house": "д. 146",
+                    "fullAddress": "г. Ижевск, Ленина, д. 146"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 700,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 43,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

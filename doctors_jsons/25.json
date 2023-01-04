@@ -1,0 +1,1071 @@
+{"doctors": [
+    {
+        "id": 610694,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Кутявин Руслан Викторович",
+        "surname": "",
+        "alias": "Kutyavin_Ruslan",
+        "sex": 1,
+        "url": "/doctor/Kutyavin_Ruslan",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/610694_20210716143250.162x162.jpg?1669431534",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/610694_20210716143250.640x400.jpg?1669431534",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.2
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "1 отзыва",
+        "countReviews": 1,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 100,
+                "name": "УЗИ-специалист",
+                "alias": "vrach_uzi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Шумайлова, д. 20а",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "УЗИ-специалист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "7273": {
+                "active": true,
+                "selected": true,
+                "id": 7273,
+                "name": "Медицея на Шумайлова",
+                "alias": "meditseya",
+                "url": "/clinic/meditseya",
+                "phone": "8 (341) 231-02-74",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.863272,
+                    53.198644
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Шумайлова",
+                    "house": "д. 20а",
+                    "fullAddress": "г. Ижевск, ул. Шумайлова, д. 20а"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 11,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 615814,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Бронникова Любовь Михайловна",
+        "surname": "",
+        "alias": "Bronnikova_Lyubov",
+        "sex": 2,
+        "url": "/doctor/Bronnikova_Lyubov",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/615814_20201214105020.162x162.jpg?1669431591",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/615814_20201214105020.640x400.jpg?1669431591",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Пушкинская, д. 136а",
+                "price": 1300,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "116992": {
+                "active": true,
+                "selected": true,
+                "id": 116992,
+                "name": "Доктор плюс на Пушкинской",
+                "alias": "doktor_plyus_na_pushkinskoy",
+                "url": "/clinic/doktor_plyus_na_pushkinskoy",
+                "phone": "8 (341) 233-05-31",
+                "price": 1300,
+                "specialPrice": null,
+                "coords": [
+                    56.838307,
+                    53.21794
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Пушкинская",
+                    "house": "д. 136а",
+                    "fullAddress": "г. Ижевск, Пушкинская, д. 136а"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1300,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 42,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 588422,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Синюшина Светлана Николаевна",
+        "surname": "",
+        "alias": "Sinyushina_Svetlana",
+        "sex": 2,
+        "url": "/doctor/Sinyushina_Svetlana",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/588422_20201122020034.162x162.jpg?1669431282",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/588422_20201122020034.640x400.jpg?1669431282",
+        "tipMessage": "Всего записалось 32 человека",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "2 отзывов",
+        "countReviews": 2,
+        "topReviewsPercent": 50,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 96,
+                "name": "Эндокринолог",
+                "alias": "endokrinolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Молодежная, д. 40",
+                "price": 1200,
+                "specialPrice": null,
+                "sectorNames": "Эндокринолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "116996": {
+                "active": true,
+                "selected": true,
+                "id": 116996,
+                "name": "Доктор плюс на Молодежной",
+                "alias": "doktor_plyus_na_molodezhnoy",
+                "url": "/clinic/doktor_plyus_na_molodezhnoy",
+                "phone": "8 (341) 231-02-59",
+                "price": 1200,
+                "specialPrice": null,
+                "coords": [
+                    56.851791,
+                    53.290982
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Молодежная",
+                    "house": "д. 40",
+                    "fullAddress": "г. Ижевск, Молодежная, д. 40"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 32,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 611976,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Бояринцева Олеся Геннадьевна",
+        "surname": "",
+        "alias": "Boyarintseva_Olesya",
+        "sex": 2,
+        "url": "/doctor/Boyarintseva_Olesya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/611976_20210831152038.162x162.jpg?1669431548",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/611976_20210831152038.640x400.jpg?1669431548",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Потрясающий",
+            "rating": 0,
+            "doctorRating": 9.2
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 76,
+                "name": "Косметолог",
+                "alias": "kosmetolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Карла Маркса, д. 206",
+                "price": 2000,
+                "specialPrice": 1900,
+                "sectorNames": "Косметолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "140984": {
+                "active": true,
+                "selected": true,
+                "id": 140984,
+                "name": "Лада-Эстет на Карла Маркса",
+                "alias": "lada_estet_na_karla_marksa",
+                "url": "/clinic/lada_estet_na_karla_marksa",
+                "phone": "8 (341) 231-02-58",
+                "price": 2000,
+                "specialPrice": 1900,
+                "coords": [
+                    56.844353,
+                    53.20504
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Карла Маркса",
+                    "house": "д. 206",
+                    "fullAddress": "г. Ижевск, Карла Маркса, д. 206"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 2000,
+                        "specialPrice": 1900
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 21,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1012104,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Красников Андрей Алексеевич",
+        "surname": "",
+        "alias": "Krasnikov_Andrey_2",
+        "sex": 1,
+        "url": "/doctor/Krasnikov_Andrey_2",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1012104_20221005174129.162x162.jpg?1669437030",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1012104_20221005174129.640x400.jpg?1669437030",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.4
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "1 отзыва",
+        "countReviews": 1,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 84,
+                "name": "Окулист (офтальмолог)",
+                "alias": "okulist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Карла Маркса, д. 218",
+                "price": 1200,
+                "specialPrice": 1020,
+                "sectorNames": "Окулист (офтальмолог)"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "175578": {
+                "active": true,
+                "selected": true,
+                "id": 175578,
+                "name": "Офтальмологический центр Кругозор Ижевск",
+                "alias": "oftalmologicheskiy_tsentr_krugozor_izhevsk",
+                "url": "/clinic/oftalmologicheskiy_tsentr_krugozor_izhevsk",
+                "phone": "8 (341) 233-10-65",
+                "price": 1200,
+                "specialPrice": 1020,
+                "coords": [
+                    56.847508,
+                    53.204573
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Карла Маркса",
+                    "house": "д. 218",
+                    "fullAddress": "г. Ижевск, ул. Карла Маркса, д. 218"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1020
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 3,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1049994,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Замурий Елена Николаевна ",
+        "surname": "",
+        "alias": "Zamuriy_Elena",
+        "sex": 2,
+        "url": "/doctor/Zamuriy_Elena",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1049994_20220629113427.162x162.jpg?1669437611",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1049994_20220629113427.640x400.jpg?1669437611",
+        "tipMessage": "Всего записалось 16 человек",
+        "departure": false,
+        "kidsReception": true,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 9
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 171,
+                "name": "Сурдолог",
+                "alias": "surdolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Шумайлова, д. 20а",
+                "price": 2700,
+                "specialPrice": 2565,
+                "sectorNames": "Сурдолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "7273": {
+                "active": true,
+                "selected": true,
+                "id": 7273,
+                "name": "Медицея на Шумайлова",
+                "alias": "meditseya",
+                "url": "/clinic/meditseya",
+                "phone": "8 (341) 231-02-74",
+                "price": 2700,
+                "specialPrice": 2565,
+                "coords": [
+                    56.863272,
+                    53.198644
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Шумайлова",
+                    "house": "д. 20а",
+                    "fullAddress": "г. Ижевск, ул. Шумайлова, д. 20а"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 2700,
+                        "specialPrice": 2565
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 1,
+                "kidsReceptionAgeRange": {
+                    "from": "10",
+                    "to": "17"
+                }
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 32,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 125066,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Зельверт Светлана Ивановна",
+        "surname": "",
+        "alias": "Zelvert_Svetlana",
+        "sex": 2,
+        "url": "/doctor/Zelvert_Svetlana",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/125066_20220517113708.162x162.jpg?1669505881",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/125066_20220517113708.640x400.jpg?1669505881",
+        "tipMessage": "На прошлой неделе записалось 4 человека",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.9
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "8 отзывов",
+        "countReviews": 8,
+        "topReviewsPercent": 62,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 67,
+                "name": "Акушер",
+                "alias": "akusher"
+            },
+            {
+                "id": 72,
+                "name": "Гинеколог",
+                "alias": "ginekolog"
+            },
+            {
+                "id": 78,
+                "name": "Маммолог",
+                "alias": "mammolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Репина, д. 35",
+                "price": 700,
+                "specialPrice": 630,
+                "sectorNames": "Акушер, Гинеколог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, ул. Репина, д. 35",
+                "price": 850,
+                "specialPrice": 765,
+                "sectorNames": "Маммолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "10681": {
+                "active": true,
+                "selected": true,
+                "id": 10681,
+                "name": "Докториус",
+                "alias": "avitsenna_3",
+                "url": "/clinic/avitsenna_3",
+                "phone": "8 (341) 233-00-74",
+                "price": 700,
+                "specialPrice": 630,
+                "coords": [
+                    56.869348,
+                    53.234837
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Репина",
+                    "house": "д. 35",
+                    "fullAddress": "г. Ижевск, ул. Репина, д. 35"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 700,
+                        "specialPrice": 630
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 17,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 590476,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Хисамутдинова Арина Михайловна",
+        "surname": "",
+        "alias": "Hisamutdinova_Arina",
+        "sex": 2,
+        "url": "/doctor/Hisamutdinova_Arina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/590476_20210625152650.162x162.jpg?1669431306",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/590476_20210625152650.640x400.jpg?1669431306",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 91,
+                "name": "Терапевт",
+                "alias": "terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Кунгурцева, д. 4",
+                "price": 1300,
+                "specialPrice": null,
+                "sectorNames": "Терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "167956": {
+                "active": true,
+                "selected": true,
+                "id": 167956,
+                "name": "Доктор Плюс на Кунгурцева",
+                "alias": "doktor_plyus_na_kungurtseva_1",
+                "url": "/clinic/doktor_plyus_na_kungurtseva_1",
+                "phone": "8 (341) 233-05-44",
+                "price": 1300,
+                "specialPrice": null,
+                "coords": [
+                    56.889769,
+                    53.245572
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Кунгурцева",
+                    "house": "д. 4",
+                    "fullAddress": "г. Ижевск, Кунгурцева, д. 4"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1300,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 3,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 405132,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Гуляева Елена Ильинична",
+        "surname": "",
+        "alias": "Gulyaeva_Elena_8",
+        "sex": 2,
+        "url": "/doctor/Gulyaeva_Elena_8",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/405132_20200302155119.162x162.jpg?1669429378",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/405132_20200302155119.640x400.jpg?1669429378",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 100,
+                "name": "УЗИ-специалист",
+                "alias": "vrach_uzi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Репина, д. 35",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "УЗИ-специалист"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "10681": {
+                "active": true,
+                "selected": true,
+                "id": 10681,
+                "name": "Докториус",
+                "alias": "avitsenna_3",
+                "url": "/clinic/avitsenna_3",
+                "phone": "8 (341) 233-00-74",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.869348,
+                    53.234837
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Репина",
+                    "house": "д. 35",
+                    "fullAddress": "г. Ижевск, ул. Репина, д. 35"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 14,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1012108,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Останина Полина Михайловна",
+        "surname": "",
+        "alias": "Ostanina_Polina",
+        "sex": 2,
+        "url": "/doctor/Ostanina_Polina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1012108_20221005174515.162x162.jpg?1669437030",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1012108_20221005174515.640x400.jpg?1669437030",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.4
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "1 отзыва",
+        "countReviews": 1,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 84,
+                "name": "Окулист (офтальмолог)",
+                "alias": "okulist"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Карла Маркса, д. 218",
+                "price": 1200,
+                "specialPrice": 1020,
+                "sectorNames": "Окулист (офтальмолог)"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "175578": {
+                "active": true,
+                "selected": true,
+                "id": 175578,
+                "name": "Офтальмологический центр Кругозор Ижевск",
+                "alias": "oftalmologicheskiy_tsentr_krugozor_izhevsk",
+                "url": "/clinic/oftalmologicheskiy_tsentr_krugozor_izhevsk",
+                "phone": "8 (341) 233-10-65",
+                "price": 1200,
+                "specialPrice": 1020,
+                "coords": [
+                    56.847508,
+                    53.204573
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Карла Маркса",
+                    "house": "д. 218",
+                    "fullAddress": "г. Ижевск, ул. Карла Маркса, д. 218"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1020
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 3,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

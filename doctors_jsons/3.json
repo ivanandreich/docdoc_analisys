@@ -1,0 +1,1213 @@
+{"doctors": [
+    {
+        "id": 1060536,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Пушин Тимофей Витальевич",
+        "surname": "",
+        "alias": "Pushin_Timofey",
+        "sex": 1,
+        "url": "/doctor/Pushin_Timofey",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1060536_20221003103806.162x162.jpg?1669437768",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1060536_20221003103806.640x400.jpg?1669437768",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.4
+        },
+        "popularityRating": 60.47152614806,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 119,
+                "name": "Стоматолог-терапевт",
+                "alias": "stomatolog-terapevt"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Удмуртская, д. 257 А",
+                "price": 0,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "176128": {
+                "active": true,
+                "selected": true,
+                "id": 176128,
+                "name": "Стоматология Апекс",
+                "alias": "stomatologiya_apeks_3",
+                "url": "/clinic/stomatologiya_apeks_3",
+                "phone": "8 (341) 233-12-09",
+                "price": 0,
+                "specialPrice": null,
+                "coords": [
+                    56.870361,
+                    53.222027
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Удмуртская",
+                    "house": "д. 257 А",
+                    "fullAddress": "г. Ижевск, Удмуртская, д. 257 А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 0,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 2,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 62073,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Дерягина Людмила Георгиевна",
+        "surname": "",
+        "alias": "Deryagina_Lyudmila",
+        "sex": 2,
+        "url": "/doctor/Deryagina_Lyudmila",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/62073_20200124133725.162x162.jpg?1669505640",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/62073_20200124133725.640x400.jpg?1669505640",
+        "tipMessage": "Всего записалось 16 человек",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 57.62007766854,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "1 отзыва",
+        "countReviews": 1,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 79,
+                "name": "Мануальный терапевт",
+                "alias": "manualnaya_terapiya"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Л.Толстого, д. 24",
+                "price": 2500,
+                "specialPrice": null,
+                "sectorNames": "Мануальный терапевт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "33553": {
+                "active": true,
+                "selected": true,
+                "id": 33553,
+                "name": "Век здоровья",
+                "alias": "vek_zdorovya",
+                "url": "/clinic/vek_zdorovya",
+                "phone": "8 (341) 233-01-40",
+                "price": 2500,
+                "specialPrice": null,
+                "coords": [
+                    56.863409,
+                    53.238215
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Л.Толстого",
+                    "house": "д. 24",
+                    "fullAddress": "г. Ижевск, ул. Л.Толстого, д. 24"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 2500,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 51,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 512512,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Коцофанэ Кристина Георгиевна",
+        "surname": "",
+        "alias": "Kotsofane_Kristina",
+        "sex": 2,
+        "url": "/doctor/Kotsofane_Kristina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/512512_20221001094113.162x162.jpg?1669430427",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/512512_20221001094113.640x400.jpg?1669430427",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 57.237717299943,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 125,
+                "name": "Стоматолог-ортодонт",
+                "alias": "stomatolog-ortodont"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Удмуртская, д. 257 А",
+                "price": 0,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортодонт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "176128": {
+                "active": true,
+                "selected": true,
+                "id": 176128,
+                "name": "Стоматология Апекс",
+                "alias": "stomatologiya_apeks_3",
+                "url": "/clinic/stomatologiya_apeks_3",
+                "phone": "8 (341) 233-12-09",
+                "price": 0,
+                "specialPrice": null,
+                "coords": [
+                    56.870361,
+                    53.222027
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Удмуртская",
+                    "house": "д. 257 А",
+                    "fullAddress": "г. Ижевск, Удмуртская, д. 257 А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 0,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 15,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 511544,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Михеев Александр Сергеевич",
+        "surname": "",
+        "alias": "Miheev_Aleksandr_7",
+        "sex": 1,
+        "url": "/doctor/Miheev_Aleksandr_7",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/511544_20220930232015.162x162.jpg?1669430416",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/511544_20220930232015.640x400.jpg?1669430416",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 55.114039047639,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 131,
+                "name": "Стоматолог-имплантолог",
+                "alias": "stomatolog-implantlog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            },
+            {
+                "id": 127,
+                "name": "Стоматолог-хирург",
+                "alias": "stomatolog-hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Удмуртская, д. 257 А",
+                "price": 0,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед, Стоматолог-хирург"
+            },
+            {
+                "clinicAddress": "г. Ижевск, Удмуртская, д. 257 А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог-имплантолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "176128": {
+                "active": true,
+                "selected": true,
+                "id": 176128,
+                "name": "Стоматология Апекс",
+                "alias": "stomatologiya_apeks_3",
+                "url": "/clinic/stomatologiya_apeks_3",
+                "phone": "8 (341) 233-12-09",
+                "price": 0,
+                "specialPrice": null,
+                "coords": [
+                    56.870361,
+                    53.222027
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Удмуртская",
+                    "house": "д. 257 А",
+                    "fullAddress": "г. Ижевск, Удмуртская, д. 257 А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 0,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 18,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 610586,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Ганеев Альберт Фанисович",
+        "surname": "",
+        "alias": "Ganeev_Albert",
+        "sex": 1,
+        "url": "/doctor/Ganeev_Albert",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/610586_20201208220423.162x162.jpg?1669431534",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/610586_20201208220423.640x400.jpg?1669431534",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.2
+        },
+        "popularityRating": 54.205713457273,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "1 отзыва",
+        "countReviews": 1,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 125,
+                "name": "Стоматолог-ортодонт",
+                "alias": "stomatolog-ortodont"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Родниковая, д. 74",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, Родниковая, д. 74",
+                "price": 700,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог-ортопед, Стоматолог-ортодонт"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "149967": {
+                "active": true,
+                "selected": true,
+                "id": 149967,
+                "name": "Лада Эстет на Родниковой",
+                "alias": "lada_estet_na_rodnikovoy_1",
+                "url": "/clinic/lada_estet_na_rodnikovoy_1",
+                "phone": "8 (341) 233-10-92",
+                "price": 700,
+                "specialPrice": null,
+                "coords": [
+                    56.865909,
+                    53.195348
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Родниковая",
+                    "house": "д. 74",
+                    "fullAddress": "г. Ижевск, Родниковая, д. 74"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 700,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 13,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 553274,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Залазаева Марина Аркадьевна",
+        "surname": "",
+        "alias": "Zalazaeva_Marina",
+        "sex": 2,
+        "url": "/doctor/Zalazaeva_Marina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/553274_20220802092820.162x162.jpg?1669430869",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/553274_20220802092820.640x400.jpg?1669430869",
+        "tipMessage": "Всего записалось 33 человека",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 53.565820963299,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "1 отзыва",
+        "countReviews": 1,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 108,
+                "name": "Нефролог",
+                "alias": "nefrolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, 40 лет Победы, д. 122",
+                "price": 1200,
+                "specialPrice": 1020,
+                "sectorNames": "Нефролог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, Красноармейская, д. 86 Б",
+                "price": 1200,
+                "specialPrice": 1020,
+                "sectorNames": "Нефролог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "150655": {
+                "active": true,
+                "selected": true,
+                "id": 150655,
+                "name": "Юнимед на улице 40 лет Победы",
+                "alias": "yunimed_na_40_let_pobedy",
+                "url": "/clinic/yunimed_na_40_let_pobedy",
+                "phone": "8 (341) 233-10-69",
+                "price": 1200,
+                "specialPrice": 1020,
+                "coords": [
+                    56.844131,
+                    53.281343
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "40 лет Победы",
+                    "house": "д. 122",
+                    "fullAddress": "г. Ижевск, 40 лет Победы, д. 122"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1020
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "150715": {
+                "active": false,
+                "selected": false,
+                "id": 150715,
+                "name": "Юнимед на Красноармейской",
+                "alias": "yunimed_na_krasnoarmeyskoy",
+                "url": "/clinic/yunimed_na_krasnoarmeyskoy",
+                "phone": "8 (341) 233-10-67",
+                "price": 1200,
+                "specialPrice": 1020,
+                "coords": [
+                    56.835939,
+                    53.214374
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Красноармейская",
+                    "house": "д. 86 Б",
+                    "fullAddress": "г. Ижевск, Красноармейская, д. 86 Б"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1020
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 1,
+        "categoryTitle": "Врач высшей категории",
+        "experience": 35,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 573460,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Никифоров Алексей Геннадьевич",
+        "surname": "",
+        "alias": "Nikiforov_Aleksey_3",
+        "sex": 1,
+        "url": "/doctor/Nikiforov_Aleksey_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/573460_20210824115514.162x162.jpg?1669431099",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/573460_20210824115514.640x400.jpg?1669431099",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 50.177990472271,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "1 отзыва",
+        "countReviews": 1,
+        "topReviewsPercent": 100,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 127,
+                "name": "Стоматолог-хирург",
+                "alias": "stomatolog-hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Родниковая, д. 74",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, Родниковая, д. 74",
+                "price": 700,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог-хирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "149967": {
+                "active": true,
+                "selected": true,
+                "id": 149967,
+                "name": "Лада Эстет на Родниковой",
+                "alias": "lada_estet_na_rodnikovoy_1",
+                "url": "/clinic/lada_estet_na_rodnikovoy_1",
+                "phone": "8 (341) 233-10-92",
+                "price": 700,
+                "specialPrice": null,
+                "coords": [
+                    56.865909,
+                    53.195348
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Родниковая",
+                    "house": "д. 74",
+                    "fullAddress": "г. Ижевск, Родниковая, д. 74"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 700,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 2,
+        "categoryTitle": "Врач первой категории",
+        "experience": 17,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 512384,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Зылёв Артем Владимирович",
+        "surname": "",
+        "alias": "Zylyov_Artem",
+        "sex": 1,
+        "url": "/doctor/Zylyov_Artem",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/512384_20220930153030.162x162.jpg?1669430425",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/512384_20220930153030.640x400.jpg?1669430425",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 46.807717299943,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            },
+            {
+                "id": 127,
+                "name": "Стоматолог-хирург",
+                "alias": "stomatolog-hirurg"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Удмуртская, д. 257 А",
+                "price": 0,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед, Стоматолог-хирург"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "176128": {
+                "active": true,
+                "selected": true,
+                "id": 176128,
+                "name": "Стоматология Апекс",
+                "alias": "stomatologiya_apeks_3",
+                "url": "/clinic/stomatologiya_apeks_3",
+                "phone": "8 (341) 233-12-09",
+                "price": 0,
+                "specialPrice": null,
+                "coords": [
+                    56.870361,
+                    53.222027
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Удмуртская",
+                    "house": "д. 257 А",
+                    "fullAddress": "г. Ижевск, Удмуртская, д. 257 А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 0,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 15,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 1008075,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Хасанова Анастасия Романовна",
+        "surname": "",
+        "alias": "Hasanova_Anastasiya",
+        "sex": 2,
+        "url": "/doctor/Hasanova_Anastasiya",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/1008075_20220802085459.162x162.jpg?1669436971",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/1008075_20220802085459.640x400.jpg?1669436971",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.4
+        },
+        "popularityRating": 44.765156757733,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "1 отзыва",
+        "countReviews": 1,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 73,
+                "name": "Дерматолог",
+                "alias": "dermatolog"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, 40 лет Победы, д. 122",
+                "price": 1200,
+                "specialPrice": 1020,
+                "sectorNames": "Дерматолог"
+            },
+            {
+                "clinicAddress": "г. Ижевск, Красноармейская, д. 86 Б",
+                "price": 1200,
+                "specialPrice": 1020,
+                "sectorNames": "Дерматолог"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "150655": {
+                "active": true,
+                "selected": true,
+                "id": 150655,
+                "name": "Юнимед на улице 40 лет Победы",
+                "alias": "yunimed_na_40_let_pobedy",
+                "url": "/clinic/yunimed_na_40_let_pobedy",
+                "phone": "8 (341) 233-10-69",
+                "price": 1200,
+                "specialPrice": 1020,
+                "coords": [
+                    56.844131,
+                    53.281343
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "40 лет Победы",
+                    "house": "д. 122",
+                    "fullAddress": "г. Ижевск, 40 лет Победы, д. 122"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1020
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            },
+            "150715": {
+                "active": false,
+                "selected": false,
+                "id": 150715,
+                "name": "Юнимед на Красноармейской",
+                "alias": "yunimed_na_krasnoarmeyskoy",
+                "url": "/clinic/yunimed_na_krasnoarmeyskoy",
+                "phone": "8 (341) 233-10-67",
+                "price": 1200,
+                "specialPrice": 1020,
+                "coords": [
+                    56.835939,
+                    53.214374
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Красноармейская",
+                    "house": "д. 86 Б",
+                    "fullAddress": "г. Ижевск, Красноармейская, д. 86 Б"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 1200,
+                        "specialPrice": 1020
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 4,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 500182,
+        "isActive": true,
+        "isHidden": false,
+        "isFavorite": false,
+        "name": "Сафонов Сергей Владимирович",
+        "surname": "",
+        "alias": "Safonov_Sergey_3",
+        "sex": 1,
+        "url": "/doctor/Safonov_Sergey_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "https://cdn.docdoc.ru/doctor/500182_20220311115756.162x162.jpg?1669430300",
+        "mobileImage": "https://cdn.docdoc.ru/doctor/500182_20220311115756.640x400.jpg?1669430300",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 43.798037013689,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 90,
+                "name": "Стоматолог",
+                "alias": "stomatolog"
+            },
+            {
+                "id": 121,
+                "name": "Стоматолог-ортопед",
+                "alias": "stomatolog-ortoped"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, Клубная, д. 35",
+                "price": 300,
+                "specialPrice": null,
+                "sectorNames": "Стоматолог, Стоматолог-ортопед"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "89554": {
+                "active": true,
+                "selected": true,
+                "id": 89554,
+                "name": "АктивДент на Клубной",
+                "alias": "aktivdent_na_klubnoy",
+                "url": "/clinic/aktivdent_na_klubnoy",
+                "phone": "8 (341) 233-11-32",
+                "price": 300,
+                "specialPrice": null,
+                "coords": [
+                    56.829778,
+                    53.146039
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "Клубная",
+                    "house": "д. 35",
+                    "fullAddress": "г. Ижевск, Клубная, д. 35"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": 300,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 24,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}

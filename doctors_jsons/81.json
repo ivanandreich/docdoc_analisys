@@ -1,0 +1,1052 @@
+{"doctors": [
+    {
+        "id": 498714,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Русских Борис Витальевич",
+        "surname": "",
+        "alias": "Russkih_Boris",
+        "sex": 1,
+        "url": "/doctor/Russkih_Boris",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 0,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 212,
+                "name": "Врач скорой помощи",
+                "alias": "vrach-skoroi-pomoschi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 29А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач скорой помощи"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "88922": {
+                "active": true,
+                "selected": true,
+                "id": 88922,
+                "name": "Станция скорой медицинской помощи Министерства здравоохранения Удмуртской Республики",
+                "alias": "stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "url": "/clinic/stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.879142,
+                    53.212775
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 29А",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 29А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 29,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 498776,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Семенов Сергей Александрович",
+        "surname": "",
+        "alias": "Semenov_Sergey_11",
+        "sex": 1,
+        "url": "/doctor/Semenov_Sergey_11",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 1,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 212,
+                "name": "Врач скорой помощи",
+                "alias": "vrach-skoroi-pomoschi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 29А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач скорой помощи"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "88922": {
+                "active": true,
+                "selected": true,
+                "id": 88922,
+                "name": "Станция скорой медицинской помощи Министерства здравоохранения Удмуртской Республики",
+                "alias": "stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "url": "/clinic/stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.879142,
+                    53.212775
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 29А",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 29А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 24,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 498780,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Сергеева Светлана Михайловна",
+        "surname": "",
+        "alias": "Sergeeva_Svetlana_6",
+        "sex": 2,
+        "url": "/doctor/Sergeeva_Svetlana_6",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 2,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 212,
+                "name": "Врач скорой помощи",
+                "alias": "vrach-skoroi-pomoschi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 29А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач скорой помощи"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "88922": {
+                "active": true,
+                "selected": true,
+                "id": 88922,
+                "name": "Станция скорой медицинской помощи Министерства здравоохранения Удмуртской Республики",
+                "alias": "stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "url": "/clinic/stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.879142,
+                    53.212775
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 29А",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 29А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 21,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 498796,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Смелкова Ирина Борисовна",
+        "surname": "",
+        "alias": "Smelkova_Irina",
+        "sex": 2,
+        "url": "/doctor/Smelkova_Irina",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 3,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 212,
+                "name": "Врач скорой помощи",
+                "alias": "vrach-skoroi-pomoschi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 29А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач скорой помощи"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "88922": {
+                "active": true,
+                "selected": true,
+                "id": 88922,
+                "name": "Станция скорой медицинской помощи Министерства здравоохранения Удмуртской Республики",
+                "alias": "stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "url": "/clinic/stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.879142,
+                    53.212775
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 29А",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 29А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 26,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 498800,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Стрелков Александр Юрьевич",
+        "surname": "",
+        "alias": "Strelkov_Aleksandr",
+        "sex": 1,
+        "url": "/doctor/Strelkov_Aleksandr",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 4,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 212,
+                "name": "Врач скорой помощи",
+                "alias": "vrach-skoroi-pomoschi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 29А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач скорой помощи"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "88922": {
+                "active": true,
+                "selected": true,
+                "id": 88922,
+                "name": "Станция скорой медицинской помощи Министерства здравоохранения Удмуртской Республики",
+                "alias": "stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "url": "/clinic/stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.879142,
+                    53.212775
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 29А",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 29А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 34,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 498810,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Сунцов Владимир Максимович",
+        "surname": "",
+        "alias": "Suntsov_Vladimir_3",
+        "sex": 1,
+        "url": "/doctor/Suntsov_Vladimir_3",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 5,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 212,
+                "name": "Врач скорой помощи",
+                "alias": "vrach-skoroi-pomoschi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 29А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач скорой помощи"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "88922": {
+                "active": true,
+                "selected": true,
+                "id": 88922,
+                "name": "Станция скорой медицинской помощи Министерства здравоохранения Удмуртской Республики",
+                "alias": "stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "url": "/clinic/stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.879142,
+                    53.212775
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 29А",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 29А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 43,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 498814,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Тактаев Алексей Евгеньевич",
+        "surname": "",
+        "alias": "Taktaev_Aleksey",
+        "sex": 1,
+        "url": "/doctor/Taktaev_Aleksey",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 6,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 212,
+                "name": "Врач скорой помощи",
+                "alias": "vrach-skoroi-pomoschi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 29А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач скорой помощи"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "88922": {
+                "active": true,
+                "selected": true,
+                "id": 88922,
+                "name": "Станция скорой медицинской помощи Министерства здравоохранения Удмуртской Республики",
+                "alias": "stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "url": "/clinic/stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.879142,
+                    53.212775
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 29А",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 29А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 39,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 498818,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Тарасова Елена Романовна",
+        "surname": "",
+        "alias": "Tarasova_Elena_26",
+        "sex": 2,
+        "url": "/doctor/Tarasova_Elena_26",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 7,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 212,
+                "name": "Врач скорой помощи",
+                "alias": "vrach-skoroi-pomoschi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 29А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач скорой помощи"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "88922": {
+                "active": true,
+                "selected": true,
+                "id": 88922,
+                "name": "Станция скорой медицинской помощи Министерства здравоохранения Удмуртской Республики",
+                "alias": "stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "url": "/clinic/stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.879142,
+                    53.212775
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 29А",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 29А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 32,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 498820,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Торопова Елена Клементьевна",
+        "surname": "",
+        "alias": "Toropova_Elena_5",
+        "sex": 2,
+        "url": "/doctor/Toropova_Elena_5",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Очень хороший",
+            "rating": 0,
+            "doctorRating": 8.6
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 8,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 212,
+                "name": "Врач скорой помощи",
+                "alias": "vrach-skoroi-pomoschi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 29А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач скорой помощи"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "88922": {
+                "active": true,
+                "selected": true,
+                "id": 88922,
+                "name": "Станция скорой медицинской помощи Министерства здравоохранения Удмуртской Республики",
+                "alias": "stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "url": "/clinic/stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.879142,
+                    53.212775
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 29А",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 29А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 34,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    },
+    {
+        "id": 498836,
+        "isActive": false,
+        "isHidden": true,
+        "isFavorite": false,
+        "name": "Туев Василий Владимирович",
+        "surname": "",
+        "alias": "Tuev_Vasiliy",
+        "sex": 1,
+        "url": "/doctor/Tuev_Vasiliy",
+        "logo": null,
+        "rectangularImage": null,
+        "image": "",
+        "mobileImage": "",
+        "tipMessage": "",
+        "departure": false,
+        "kidsReception": false,
+        "rating": {
+            "label": "Превосходный",
+            "rating": 0,
+            "doctorRating": 8.8
+        },
+        "popularityRating": 0,
+        "doctorExt": false,
+        "index": 9,
+        "ratingType": "stars_and_label",
+        "countReviewsString": "0 отзывов",
+        "countReviews": 0,
+        "topReviewsPercent": 0,
+        "rank": null,
+        "specialities": [
+            {
+                "id": 212,
+                "name": "Врач скорой помощи",
+                "alias": "vrach-skoroi-pomoschi"
+            }
+        ],
+        "tooltipPrices": [
+            {
+                "clinicAddress": "г. Ижевск, ул. Холмогорова, д. 29А",
+                "price": null,
+                "specialPrice": null,
+                "sectorNames": "Врач скорой помощи"
+            }
+        ],
+        "standardPrices": [],
+        "highlight": 0,
+        "clinics": {
+            "88922": {
+                "active": true,
+                "selected": true,
+                "id": 88922,
+                "name": "Станция скорой медицинской помощи Министерства здравоохранения Удмуртской Республики",
+                "alias": "stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "url": "/clinic/stantsiya_skoroy_meditsinskoy_pomoshti_ministerstva_zdravoohraneniya_udmurtskoy_respubliki",
+                "phone": "8 (495) 125-29-52",
+                "price": null,
+                "specialPrice": null,
+                "coords": [
+                    56.879142,
+                    53.212775
+                ],
+                "isPrivateDoctor": false,
+                "isRecommended": false,
+                "notEmptySlots": false,
+                "address": {
+                    "street": "ул. Холмогорова",
+                    "house": "д. 29А",
+                    "fullAddress": "г. Ижевск, ул. Холмогорова, д. 29А"
+                },
+                "cityId": 0,
+                "diagnosticsName": null,
+                "diagnosticsPrice": null,
+                "stations": null,
+                "hasYandexCashBack": false,
+                "receptionPrices": {
+                    "clinic": {
+                        "price": null,
+                        "specialPrice": null
+                    }
+                },
+                "isPriorityPartner": false,
+                "adultsReception": 1,
+                "kidsReception": 0,
+                "kidsReceptionAgeRange": []
+            }
+        },
+        "slots": [],
+        "categoryId": 0,
+        "categoryTitle": "",
+        "experience": 34,
+        "degreeId": 0,
+        "degreeAbbreviation": "",
+        "degreeTitle": "",
+        "hasPromoPrice": false,
+        "hasStandardPrice": false,
+        "hasYandexCashBack": false,
+        "departurePrice": null,
+        "tooltipText": "Стоимость указана за первичный приём.\nВ неё не входит стоимость дополнительных исследований и выезда на дом.",
+        "seoSlotTipText": "",
+        "isEnabledPromoPrice": false,
+        "review": [],
+        "specAccommodationIndex": null,
+        "surgeryInfo": null
+    }
+]}
