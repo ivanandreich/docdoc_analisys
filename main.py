@@ -1,12 +1,11 @@
 import requests
 from bs4 import BeautifulSoup as bs
-# import pandas as pd
 import configparser as cp
 import json
 # pip install requests pandas configparser beautifulsoup4
 # import time
 # import lxml
-# from functions import get_request, read_config, full_html, save_html, doctors_html_to_json,\
+# from functions import get_request, read_config, full_html, save_html, doctors_html_to_json, fill_doctors_json
 #     get_request_status, example_doctor_dict
 from functions import *
 
@@ -14,39 +13,26 @@ config = read_config("config.ini")
 
 main_url = config["Url"]["main_url"]
 doctors_url = config["Url"]["doctors_url"]
-i = 1
-r = requests.get(doctors_url + str(i))
-doctors_list = []
-file = open("doctors_json.json", "w")
+clinics_url = config["Url"]["clinics_url"]
 
-while r.ok:
-    r = requests.get(doctors_url + str(i))
-    print("request number " + str(i) + ': ' + str(r))
-    doctors_json = doctors_html_to_json(r.text)
-    doctors_json = json.loads(doctors_json)
+r = requests.get('https://izh.docdoc.ru/clinic/lada_estet_na_karla_marksa')
+soup = bs(r.text, "html.parser")
+clinics_tag = soup.find_all('clinic-page')
 
-    for index in range(len(doctors_json["doctors"])):
-        doctor_dict_list = fill_doctor_dict_list(doctors_json, index)
-        # print(doctor_dict)
-        for k in range(len(doctor_dict_list)):
-            doctors_list.append(doctor_dict_list[k])
+clinics_json = str(clinics_tag[0])
 
-    if i == 30:
-        break
-    i += 1
-    r = requests.get(doctors_url + str(i))
-doctors_list = json.dumps({'doctors': doctors_list}, ensure_ascii=False)
-file.write(doctors_list)
-# orgs_list =
-# if not r.ok:
-# file.write(']}')
-file.close()
+diag = clinics_json[clinics_json.find(':diagnostics-services='):clinics_json.find('class="adaptive-clinic-page"')]
+med = clinics_json[clinics_json.find(':med-services='):]
+print(clinics_json)
+services_dict = {'diag': diag
+                 'med': med}
 
-# print(doctors_list)
+# fill_doctors_json(doctors_url)
+# fill_clinics_json(clinics_url)
+# print(fill_specs_dict_list("doctors_json.json"))
+
+# save_html(illness_url, 'illness_page.html')
 
 
-# «Id врача»
-# «Имя»
-# «Id специализации» (несколько) - если несколько, то дублируем
-# «Id организации» - (несколько) - если несколько, то дублируем
-# «Рейтинг врача»
+
+
